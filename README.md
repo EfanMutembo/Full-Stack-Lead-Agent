@@ -1,22 +1,41 @@
-# Lead Gen Workflow (Cold Email via Instantly)
+# Lead Gen Workflow
 
-**Automated lead generation workflow that scrapes, validates, personalizes, and launches cold email campaigns in minutes.**
+![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## What Is This?
 
-This is a **3-layer agentic workflow** that automates the entire lead generation process from scraping to campaign launch. Instead of spending hours manually finding leads, verifying emails, and writing personalized outreach—this system does it all automatically using AI orchestration and deterministic Python scripts.
+Imagine hiring a dream team to handle your lead generation:
 
-**What makes it different:**
-- ✅ **Self-annealing** - Learns from errors and updates itself
-- ✅ **Reliable** - Uses deterministic scripts (not pure LLM guessing)
-- ✅ **Personalized at scale** - Enriches leads with company-specific achievements
-- ✅ **Bifurcated campaigns** - Separate strategies for personalized vs generic leads
-- ✅ **Instantly.ai integration** - Automatically creates and populates campaigns
+- **A Quality Control Specialist** who scrapes LinkedIn and validates every lead matches your ICP
+- **An Email Verification Expert** who checks deliverability so you never hit a spam trap
+- **A Research Analyst** who digs through company websites finding achievements and client names
+- **A Copywriter** who writes personalized email sequences based on your best-performing templates
+- **A Campaign Manager** who sets up your Instantly campaigns and uploads everything
+
+This project brings that dream team to life using AI agents and deterministic automation. Give it your ICP, and watch as it scrapes, validates, personalizes, and launches campaigns automatically.
+
+**The result:** 20+ hours of manual work compressed into 4 minutes. Ready-to-send Instantly campaigns with verified, segmented, personalized leads.
+
+*Built on the DOE (Directives, Orchestration, Execution) framework—shoutout to the architects. Enhanced with self-annealment so it learns from errors and gets smarter over time.*
+
+
+## What You Get
+
+Tell it your ideal customer profile, and it:
+
+🎯 **Finds your exact ICP** - Scrapes LinkedIn Using APIFY , validates with AI (80%+ match rate)  
+✉️ **Verifies every email** - No bounces, no spam traps, only deliverable addresses  
+🌐 **Personalizes at scale** - Scrapes company websites for achievements, awards, client names  
+📊 **Segments intelligently** - Splits personalized vs generic leads for different campaign strategies  
+📝 **Writes your campaigns** - AI generates email sequences based on your proven templates  
+⚡ **Launches in Instantly** - Creates campaigns, uploads leads, ready to send  
+
+**One command. Minutes later, you're ready to launch.**
 
 ## Quick Start
 
-**Tell the AI agent what you want:**
-
+### What You'll Say
 ```
 Run the lead generation workflow for HVAC companies in the UK:
 - Company Size: 10-50 employees
@@ -25,88 +44,64 @@ Run the lead generation workflow for HVAC companies in the UK:
 - Offer: AI Automation Implementation
 ```
 
-**The system will automatically:**
-1. Scrape 25 test leads and validate quality (80%+ match required)
-2. If quality passes → scrape full 500 leads
-3. Verify email deliverability (AnyMailFinder)
-4. Enrich with personalization (scrape websites for achievements)
-5. Segment into personalized vs non-personalized groups
-6. Generate AI campaign copy (separate for each segment)
-7. Create 2 Instantly campaigns (one per segment)
-8. Upload leads to respective campaigns
+### What Happens Next
 
-**Time:** ~4 minutes without personalization, ~54-104 minutes with personalization (for 1000 leads)
+The system automatically:
 
-**Result:** Ready-to-launch Instantly campaigns with segmented, verified leads
+1. ✅ Scrapes and validates 25 test leads (80%+ match required)
+2. ✅ Scrapes full 500 leads (if quality check passes)
+3. ✅ Verifies all email addresses
+4. ✅ Enriches with website personalization
+5. ✅ Segments into personalized vs generic groups
+6. ✅ Generates AI campaign copy (tailored per segment)
+7. ✅ Creates Instantly campaigns and uploads leads
 
-## Features
+**Time:** 4 minutes (or 15 minutes with deep personalization)
 
-### Core Capabilities
-- **Smart scraping** - Uses Apify LinkedIn Sales Navigator scraper
-- **AI validation** - Claude validates leads match your ICP (80%+ threshold)
-- **Email verification** - AnyMailFinder checks deliverability before upload
-- **Website personalization** - Scrapes company websites for specific achievements
-- **Personalization segmentation** - Splits leads by personalization success (40-60% typically)
-- **Optional job title segmentation** - Further segment by role (Executive/Operations/Marketing/Sales)
-- **Parallel processing** - Concurrent verification, personalization, and uploads (50-75% faster)
-- **AI campaign copy** - Generates email sequences based on your templates
-- **Multi-campaign creation** - Creates separate Instantly campaigns per segment
-- **Google Sheets export** - Optional export with all lead data
+**You get:** Ready-to-send Instantly campaigns with verified, segmented leads
 
-### 3-Layer Architecture
+## How It Works (The Simple Version)
 
-**Why this matters:** LLMs are probabilistic—if each step has 90% accuracy, after 5 steps you only have 59% success (0.9^5). This system fixes that by pushing complexity into deterministic code.
+**Step 1: Tell it your ICP**
+```
+"Run lead gen for HVAC companies in the UK:
+- 10-50 employees
+- $1M-$10M revenue  
+- 500 leads total"
+```
 
-1. **Layer 1: Directives** (`directives/`) - Natural language SOPs (what to do)
-2. **Layer 2: Orchestration** - AI agent (intelligent routing and decision-making)
-3. **Layer 3: Execution** (`execution/`) - Python scripts (reliable, testable, fast)
+**Step 2: It validates quality**
+- Scrapes 25 test leads
+- AI checks if they match your ICP (80%+ required)
+- If passed → scrapes the full batch
 
-### Self-Annealing Loop
+**Step 3: It cleans and verifies**
+- Normalizes company names
+- Verifies email deliverability (AnyMailFinder)
+- Filters out bounces and spam traps
 
-When something breaks:
-1. AI reads error message
-2. Fixes the script
-3. Tests the fix
-4. Updates the directive with learnings
-5. System is now stronger
+**Step 4: It personalizes (optional)**
+- Scrapes company websites
+- Finds specific achievements, awards, client names
+- Segments into personalized vs generic buckets
 
-## API Accounts & Affiliate Links
+**Step 5: It creates campaigns**
+- Generates AI email copy from your templates
+- Creates separate Instantly campaigns (personalized vs generic)
+- Uploads leads to respective campaigns
 
-You'll need API keys from these services:
+**Step 6: You're ready to send**
 
-### Required Services
+### Why It's Reliable
 
-**1. Apify** (Lead Scraping)
-- Get your API token: [Apify Console](https://console.apify.com/account/integrations)
-- Affiliate link: `[YOUR_APIFY_AFFILIATE_LINK]`
-- Cost: Pay-as-you-go (~$0.01-0.05 per lead depending on filters)
+Most AI automation breaks after a few steps. This doesn't.
 
-**2. Anthropic Claude** (AI Validation & Campaign Copy)
-- Get your API key: [Anthropic Console](https://console.anthropic.com/)
-- Affiliate link: `[YOUR_ANTHROPIC_AFFILIATE_LINK]`
-- Cost: ~$0.50-2.00 per 1000 leads (validation + copy generation)
+**The secret:** 3-layer architecture (DOE framework)
+- **Directives** = What to do (living documents that improve over time)
+- **Orchestration** = AI decides how to do it
+- **Execution** = Deterministic Python scripts do the work
 
-**3. Instantly.ai** (Campaign Management)
-- Get your API key: [Instantly Settings](https://app.instantly.ai/app/settings/api)
-- Affiliate link: `[YOUR_INSTANTLY_AFFILIATE_LINK]`
-- Cost: Subscription-based ($37-297/month depending on plan)
-
-**4. AnyMailFinder** (Email Verification)
-- Get your API key: [AnyMailFinder Account](https://anymailfinder.com/account.php)
-- Affiliate link: `[YOUR_ANYMAILFINDER_AFFILIATE_LINK]`
-- Cost: 0.2 credits per email (~$0.002 per verification)
-
-**5. Firecrawl** (Website Personalization)
-- Get your API key: [Firecrawl Dashboard](https://firecrawl.dev/)
-- Affiliate link: `[YOUR_FIRECRAWL_AFFILIATE_LINK]`
-- Cost: Free tier available, then pay-as-you-go
-
-### Optional Services
-
-**6. Google Cloud** (Google Sheets Export - Optional)
-- Get OAuth credentials: [Google Cloud Console](https://console.cloud.google.com/)
-- Affiliate link: `[YOUR_GOOGLE_CLOUD_AFFILIATE_LINK]`
-- Cost: Free for Sheets/Drive API usage
+When something breaks, it self-anneals: reads the error, fixes the code, tests it, updates the directive. Gets smarter with each failure.
 
 ## Installation
 
@@ -144,11 +139,11 @@ pip install -r requirements.txt
 cp .env.example .env
 
 # Edit .env with your actual API keys
-# Use a text editor to add your keys from the services above
+# Use a text editor to add your keys from the services below
 ```
 
 ### 6. (Optional) Set up Google Sheets export
-1. Go to [Google Cloud Console](https://console.cloud.google.com/)
+1. Go to [Google Cloud Console](https://console.cloud.google.com)
 2. Create a new project
 3. Enable Google Sheets API and Google Drive API
 4. Create OAuth 2.0 credentials (Desktop app)
@@ -158,7 +153,6 @@ cp .env.example .env
 ### 7. Run your first workflow
 
 Start Claude Code (or your preferred AI agent) and say:
-
 ```
 Run the lead generation workflow for [YOUR INDUSTRY] companies:
 - Industry: [e.g., HVAC, Solar, SaaS]
@@ -168,55 +162,34 @@ Run the lead generation workflow for [YOUR INDUSTRY] companies:
 - Offer: [e.g., AI Automation Services]
 ```
 
-## Directory Structure
+## API Keys & Services
 
-```
-.
-├── directives/              # Markdown SOPs for AI agent
-│   └── lead_generation_workflow.md
-├── execution/               # Python scripts (19 scripts)
-│   ├── scrape_leads_direct_api.py
-│   ├── validate_icp_batch.py
-│   ├── filter_invalid_leads.py
-│   ├── verify_emails_anymailfinder.py
-│   ├── enrich_personalization.py
-│   ├── segment_by_personalization.py
-│   └── ... (13 more scripts)
-├── .tmp/                    # Temporary files (auto-generated, not in git)
-├── .env                     # Your API keys (NOT in git)
-├── .env.example             # Template for API keys
-├── credentials.json         # Google OAuth (optional, not in git)
-├── requirements.txt         # Python dependencies
-├── CLAUDE.md                # AI agent operating instructions
-└── README.md                # This file
-```
+You'll need API keys from these services:
 
-## How It Works
+### Required Services
 
-### Process Flow
+| Service | Get Key From | Cost | Purpose |
+|---------|-------------|------|---------|
+| **Apify** | [Console](https://console.apify.com) | Pay-as-you-go (~$0.01-0.05/lead) | Lead scraping |
+| **Anthropic Claude** | [Console](https://console.anthropic.com) | ~$0.50-2.00 per 1000 leads | AI validation & copy |
+| **Instantly.ai** | [Settings](https://app.instantly.ai/app/settings/integrations) | $37-297/month | Campaign management |
+| **AnyMailFinder** | [Account](https://anymailfinder.com) | ~$0.002/verification | Email verification |
+| **Firecrawl** | [Dashboard](https://firecrawl.dev) | Free tier + pay-as-you-go | Website personalization |
 
-```
-1. Scrape test batch (25 leads)
-2. Validate quality with AI (80% threshold)
-3. If passed → Scrape full batch
-4. Filter invalid leads
-5. Normalize company names
-6. Verify email addresses
-7. Enrich with personalization (website scraping)
-8. Segment by personalization status
-9. (Optional) Export to Google Sheets
-10. (Optional) Segment by job title
-11. Generate campaign copy (AI, separate per segment)
-12. Create Instantly campaigns (one per segment)
-13. Upload leads to respective campaigns
-```
+### Optional Services
 
-### Performance Benchmarks
+| Service | Get Key From | Cost | Purpose |
+|---------|-------------|------|---------|
+| **Google Cloud** | [Console](https://console.cloud.google.com) | Free for Sheets API | Google Sheets export |
+
+## Performance Benchmarks
 
 **For 1000 leads:**
-- Without personalization: ~4 minutes total
-- With personalization: ~54-104 minutes total
-- Personalization is the slowest step (50-100 minutes)
+
+- **Without personalization:** ~4 minutes total
+- **With personalization:** ~54-104 minutes total
+
+Personalization is the slowest step (50-100 minutes)
 
 **Optimizations:**
 - Parallel email verification (5 concurrent)
@@ -224,14 +197,6 @@ Run the lead generation workflow for [YOUR INDUSTRY] companies:
 - Parallel lead uploads (5 workers, 75% faster)
 - Batch Sheets export (60% faster for large datasets)
 - Parallel campaign generation (50% faster)
-
-## Key Principles
-
-- **Self-anneal when things break** - Errors are learning opportunities
-- **Update directives as you learn** - Living documents that improve over time
-- **Deterministic execution** - Push complexity into reliable Python scripts
-- **Deliverables in cloud** - Google Sheets/Slides, not local files
-- **Intermediates are temporary** - Everything in `.tmp/` can be regenerated
 
 ## Customization
 
@@ -252,28 +217,18 @@ Edit `directives/lead_generation_workflow.md` to:
 2. Create execution scripts in `execution/`
 3. Tell the AI agent to run your new workflow
 
-## Troubleshooting
+## Key Principles
 
-### Common Issues
-
-**"Quality validation failed (below 80%)"**
-- Solution: Broaden your ICP filters or adjust search keywords
-
-**"Email verification rate low"**
-- Solution: Check AnyMailFinder credits, verify API key in `.env`
-
-**"Personalization success rate <50%"**
-- Solution: Check FIRECRAWL_API_KEY, review error report in `.tmp/personalization_report.json`
-
-**"Campaign upload failed"**
-- Solution: Verify INSTANTLY_API_KEY, check campaign IDs in `.tmp/campaign_ids.json`
-
-**"Google Sheets export failed"**
-- Solution: Ensure `credentials.json` exists, re-authenticate if needed
+- **Self-anneal when things break** - Errors are learning opportunities
+- **Update directives as you learn** - Living documents that improve over time
+- **Deterministic execution** - Push complexity into reliable Python scripts
+- **Deliverables in cloud** - Google Sheets/Slides, not local files
+- **Intermediates are temporary** - Everything in `.tmp/` can be regenerated
 
 ## Contributing
 
 When adding new functionality:
+
 1. Create a directive in `directives/` describing the workflow
 2. Create execution scripts in `execution/` for reliable operations
 3. Update this README if adding new dependencies or setup steps
@@ -289,4 +244,4 @@ Questions or issues? [Add your support contact/link here]
 
 ---
 
-**Built with the 3-layer agentic architecture - reliable, self-improving, production-ready.**
+**Built with the 3-layer agentic architecture** - reliable, self-improving, production-ready.
