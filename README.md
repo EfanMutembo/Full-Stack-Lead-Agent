@@ -170,10 +170,10 @@ You'll need API keys from these services:
 
 | Service | Get Key From | Cost | Purpose |
 |---------|-------------|------|---------|
-| **Apify** | [Console](https://console.apify.com) | Pay-as-you-go (~$0.01-0.05/lead) | Lead scraping |
+| **Apify** | [APIFY](https://apify.com?fpr=efan) | Pay-as-you-go (~$0.01-0.05/lead) | Lead scraping |
 | **Anthropic Claude** | [Console](https://console.anthropic.com) | ~$0.50-2.00 per 1000 leads | AI validation & copy |
-| **Instantly.ai** | [Settings](https://app.instantly.ai/app/settings/integrations) | $37-297/month | Campaign management |
-| **AnyMailFinder** | [Account](https://anymailfinder.com) | ~$0.002/verification | Email verification |
+| **Instantly.ai** | [Instanlty](https://instantly.ai/?via=efan) | $37-297/month | Campaign management |
+| **AnyMailFinder** | [Account](https://anymailfinder.com/?via=efan-iori) | ~$0.002/verification | Email verification |
 | **Firecrawl** | [Dashboard](https://firecrawl.dev) | Free tier + pay-as-you-go | Website personalization |
 
 ### Optional Services
@@ -225,23 +225,17 @@ Edit `directives/lead_generation_workflow.md` to:
 - **Deliverables in cloud** - Google Sheets/Slides, not local files
 - **Intermediates are temporary** - Everything in `.tmp/` can be regenerated
 
-## Contributing
-
-When adding new functionality:
-
-1. Create a directive in `directives/` describing the workflow
-2. Create execution scripts in `execution/` for reliable operations
-3. Update this README if adding new dependencies or setup steps
-4. Test with small batch first (25 leads)
 
 ## License
 
-[Add your license here]
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Support
 
-Questions or issues? [Add your support contact/link here]
+Doesnt quite fit your needs?
+
+Get in toutch for tailored solution - efan@kwikstreamsolutions.com
 
 ---
 
-**Built with the 3-layer agentic architecture** - reliable, self-improving, production-ready.
+**Built with love for the Lead Gen community** - reliable, self-improving, production-ready.
