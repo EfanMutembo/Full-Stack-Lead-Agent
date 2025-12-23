@@ -1,4 +1,4 @@
-# Lead Gen Workflow
+# Full Stack Lead Gen Agent
 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
