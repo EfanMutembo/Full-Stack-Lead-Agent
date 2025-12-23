@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(mkdir:*)",
+      "Bash(python -m venv:*)",
+      "Bash(./venv/Scripts/pip install:*)",
+      "Bash(./venv/Scripts/python:*)",
+      "Bash(python:*)",
+      "Bash(tasklist:*)",
+      "Bash(findstr:*)",
+      "Bash(timeout /t 10 /nobreak)",
+      "Bash(exit 0)",
+      "Bash(timeout /t 5 /nobreak)",
+      "Bash(./venv/Scripts/python.exe:*)",
+      "Bash(if not exist \"c:\\Users\\Efan\\Kwikstream\\Agentic Workflows\\dev\\Lead Gen Workflow\\.tmp\" mkdir \"c:\\Users\\Efan\\Kwikstream\\Agentic Workflows\\dev\\Lead Gen Workflow\\.tmp\")",
+      "Bash(cd:*)",
+      "Bash(ls:*)",
+      "Bash(xargs:*)",
+      "Bash(pip install:*)",
+      "Bash(curl:*)",
+      "Bash(grep:*)",
+      "Bash(find:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

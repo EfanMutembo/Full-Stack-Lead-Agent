@@ -1,0 +1,25 @@
+# Core dependencies
+python-dotenv>=1.0.0
+
+# Apify (REQUIRED for lead scraping)
+apify-client>=1.7.0
+
+# Anthropic (REQUIRED for lead quality validation)
+anthropic>=0.39.0
+
+# Google API libraries (REQUIRED for Google Sheets export)
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.1.1
+google-api-python-client>=2.100.0
+
+# Web scraping (optional - for additional scraping needs)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+firecrawl-py>=0.0.16
+
+# Data processing
+pandas>=2.1.0
+
+# Optional: OpenAI
+# openai>=1.3.0

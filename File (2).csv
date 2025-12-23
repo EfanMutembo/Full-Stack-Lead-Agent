@@ -1,0 +1,469 @@
+﻿id,company_domain,campaign,email,personalization,website,last_name,first_name,company_name
+019b0a12-e0e9-7d18-ab07-282dbbfde81e,securebuilt.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ryan@securebuilt.com,Secure Built,http://www.securebuilt.com,Gummer,Ryan,Secure Built
+019b0a12-e0e9-7d18-ab07-282ec0db5e47,realtyunlimited.com,76e6c580-a61f-4602-a946-7eb16a5d8967,kjs@realtyunlimited.com,Realty Unlimited,http://www.realtyunlimited.com,Schevers,Kevin,Realty Unlimited
+019b0a12-e0e9-7d18-ab07-282f063b3415,innovativepropertysolutions.com,76e6c580-a61f-4602-a946-7eb16a5d8967,telisa@innovativepropertysolutions.com,Innovative Property,http://www.rivercityrentals.com,Grays,Telisa,Innovative Property
+019b0a12-e0e9-7d18-ab07-283019707deb,iproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,vas@iproperties.com,Internet Properties,http://www.iproperties.com,Priskos,Vasilios,Internet Properties
+019b0a12-e0e9-7d18-ab07-28310e847ed1,oakleyhomebuilders.com,76e6c580-a61f-4602-a946-7eb16a5d8967,steve@oakleyhomebuilders.com,Oakley Home Builders,http://www.oakleyhomebuilders.com,Sobkowiak,Steve,Oakley Home Builders
+019b0a12-e0e9-7d18-ab07-2832f94c4981,lawyersrealtypa.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mduffie@lawyersrealtypa.com,Lawyers Realty,http://www.lawyersrealtypa.com,Duffie,Mark,Lawyers Realty
+019b0a12-e0e9-7d18-ab07-28330acac11d,pearsonrealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bpearson@pearsonrealty.com,Pearson Realty,http://www.pearsonrealty.com,Pearson,Betty,Pearson Realty
+019b0a12-e0e9-7d18-ab07-2834d0ab0442,thebaumgartnerco.com,76e6c580-a61f-4602-a946-7eb16a5d8967,roger@thebaumgartnerco.com,Baumgartner,http://www.thebaumgartnerco.com,Baumgartner,Roger,Baumgartner
+019b0a12-e0e9-7d18-ab07-28355d61b162,annewhitingrealestate.com,76e6c580-a61f-4602-a946-7eb16a5d8967,sara@annewhitingrealestate.com,Anne Whiting,http://www.annewhitingrealestate.com,Farland,Sara,Anne Whiting
+019b0a12-e0e9-7d18-ab07-283626f2dc0d,claudetteklein.com,76e6c580-a61f-4602-a946-7eb16a5d8967,claudette@claudetteklein.com,Klein Financial,http://www.klein-financial.com,Klein,Claudette,Klein Financial
+019b0a12-e0e9-7d18-ab07-2837d9954f72,mikesfloorco.com,76e6c580-a61f-4602-a946-7eb16a5d8967,lschreiber@mikesfloorco.com,Mike's Flooring,,Schreiber,Leslie,Mike's Flooring
+019b0a12-e0e9-7d18-ab07-2838b83510e8,bekamanagement.com,76e6c580-a61f-4602-a946-7eb16a5d8967,vmamula@bekamanagement.com,Beka,http://www.bekamanagement.com,Mamula,Van,Beka
+019b0a12-e0e9-7d18-ab07-2839b6510a16,urbangroupsf.com,76e6c580-a61f-4602-a946-7eb16a5d8967,colleen@urbangroupsf.com,Urban Real Estate,http://www.urbangroupsf.com,Meharry,Colleen,Urban Real Estate
+019b0a12-e0e9-7d18-ab07-283a6c48a267,mcgrathpropertygroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,lance.mcgrath@mcgrathpropertygroup.com,McGrath,http://www.mcgrathpg.com,Mcgrath,Lance,McGrath
+019b0a12-e0e9-7d18-ab07-283bc6c19de7,jpfco.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dalton@jpfco.com,J Pepper Frazier,http://www.jpfco.com,Frazier,Dalton,J Pepper Frazier
+019b0a12-e0e9-7d18-ab07-283cd4f099e0,thebeachgroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ron@thebeachgroup.com,Beach Properties,http://www.thebeachgroup.com,Romano,Ron,Beach Properties
+019b0a12-e0e9-7d18-ab07-283d0fb45000,granitepeakrea.com,76e6c580-a61f-4602-a946-7eb16a5d8967,pierre@granitepeakrea.com,Granite Peak,http://www.granitepeakpartners.com,Tada,Pierre,Granite Peak
+019b0a12-e0e9-7d18-ab07-283edaf52f08,capecodera.com,76e6c580-a61f-4602-a946-7eb16a5d8967,chris@capecodera.com,Era Cape,http://www.capecodera.com,Greene,Chris,Era Cape
+019b0a12-e0e9-7d18-ab07-283ff32ae74c,gordoncommercial.com,76e6c580-a61f-4602-a946-7eb16a5d8967,john@gordoncommercial.com,Gordon Commercial Real Estate,http://www.gordoncommercial.com,Gordon,John,Gordon Commercial Real Estate
+019b0a12-e0e9-7d18-ab07-28405f36c22f,thrashco.com,76e6c580-a61f-4602-a946-7eb16a5d8967,matt@thrashco.com,Thrash Contractors,http://www.thrashco.com,Mcwilliams,Matt,Thrash Contractors
+019b0a12-e0e9-7d18-ab07-284120b0625f,ecam.net,76e6c580-a61f-4602-a946-7eb16a5d8967,jgelder@ecam.net,Emerald Coast Association Management,http://www.ecam.net,Gelder,Jay,Emerald Coast Association Management
+019b0a12-e0e9-7d18-ab07-28429f599f10,bondcompanies.com,76e6c580-a61f-4602-a946-7eb16a5d8967,rbond@bondcompanies.com,Bond,http://www.bondcompanies.com,Bond,Rob,Bond
+019b0a12-e0e9-7d18-ab07-28435f572c06,osres.com,76e6c580-a61f-4602-a946-7eb16a5d8967,amanda@osres.com,Onesource Real Estate,http://www.listtosellatl.com,Phipps,Amanda,Onesource Real Estate
+019b0a12-e0e9-7d18-ab07-2844abf93cc9,scottbrownproperties.net,76e6c580-a61f-4602-a946-7eb16a5d8967,scott.brown@scottbrownproperties.net,Scott Brown,http://www.scottbrownproperties.net,Brown,Scott,Scott Brown
+019b0a12-e0e9-7d18-ab07-284540cb434f,adviserealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ashley@adviserealty.com,Advise Realty,http://www.adviserealty.com,Zimmel,Ashley,Advise Realty
+019b0a12-e0e9-7d18-ab07-2846058604bf,scotiagroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,rob@scotiagroup.com,Scotia,http://www.scotiagroupmanagement.com,Aronoff,Rob,Scotia
+019b0a12-e0e9-7d18-ab07-28475c85891d,torellirealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,valerie@torellirealty.com,Torelli,http://www.torellirealty.com,Torelli,Valerie,Torelli
+019b0a12-e0ea-7beb-b492-23fcc8acc823,thegarnergroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,shelley@thegarnergroup.com,Harcourts Garner,http://www.thegarnergroup.com,Griffin,Shelley,Harcourts Garner
+019b0a12-e0ea-7beb-b492-23fdb0645e86,beaconpm.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jnotley@beaconpm.com,Beacon Property Management,http://www.beaconpropertymanagement.com,Notley,Jim,Beacon Property Management
+019b0a12-e0ea-7beb-b492-23fe664db499,commercialonerealtors.com,76e6c580-a61f-4602-a946-7eb16a5d8967,david.holzer@commercialonerealtors.com,Commercial One,http://www.commercialonerealtors.com,Holzer,David,Commercial One
+019b0a12-e0ea-7beb-b492-23ff4013670f,ghrealtors.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ngerrard@ghrealtors.com,Gerrard-Hoeschler,http://www.ghrealtors.com,Gerrard,Nancy,Gerrard-Hoeschler
+019b0a12-e0ea-7beb-b492-240094d570bb,simoncompanies.com,76e6c580-a61f-4602-a946-7eb16a5d8967,fsimon@simoncompanies.com,Simon Companies,http://www.simoncompanies.com,Simon,Franklin,Simon Companies
+019b0a12-e0ea-7beb-b492-2401fa1c5a76,seeutahhomes.com,76e6c580-a61f-4602-a946-7eb16a5d8967,john@seeutahhomes.com,Summit Realty,http://www.summitrealtyllc.com,Harrison,John,Summit Realty
+019b0a12-e0ea-7beb-b492-240224fbede9,rlnorthwest.com,76e6c580-a61f-4602-a946-7eb16a5d8967,stephanie@rlnorthwest.com,Corcoran Lifestyle,http://www.corcorangroup.com,Mccarthy,Stephanie,Corcoran Lifestyle
+019b0a12-e0ea-7beb-b492-240384d2eff3,cofeproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mario@cofeproperties.com,Cofe Properties,http://www.cofeproperties.com,Fernandez,Mario,Cofe Properties
+019b0a12-e0ea-7beb-b492-2404ec2911a4,rickhayden.com,76e6c580-a61f-4602-a946-7eb16a5d8967,yee@rickhayden.com,Hayden Properties,http://www.hayden-properties.com,Ling,Yee,Hayden Properties
+019b0a12-e0ea-7beb-b492-2405ae358743,hardyenterprisesllc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,russ.hardy@hardyenterprisesllc.com,Hardy,http://www.hardyenterprisesllc.com,Hardy,Russ,Hardy
+019b0a12-e0ea-7beb-b492-2406682db623,takeactionproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mari@takeactionproperties.com,Take Action Properties,http://www.takeactionproperties.com,Parks,Mari,Take Action Properties
+019b0a12-e0ea-7beb-b492-2407f8afd828,cocciarealestate.com,76e6c580-a61f-4602-a946-7eb16a5d8967,chris@cocciarealestate.com,Coccia Real Estate,http://www.cocciarealestate.com,Coccia,Chris,Coccia Real Estate
+019b0a12-e0ea-7beb-b492-2408b08bcf19,interstatepartners.com,76e6c580-a61f-4602-a946-7eb16a5d8967,fb@interstatepartners.com,Interstate Partners,http://www.interstatepartners.com,Brzezinski,Francis,Interstate Partners
+019b0a12-e0ea-7beb-b492-2409d5da784c,morganhomeswny.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jim@morganhomeswny.com,Morgan Homes of Western New York,http://www.mhofwny.com,Warren,Jim,Morgan Homes of Western New York
+019b0a12-e0ea-7beb-b492-240a6aa70aac,oxfordrealtynd.com,76e6c580-a61f-4602-a946-7eb16a5d8967,scott@oxfordrealtynd.com,Oxford Realty,http://www.oxfordrealtynd.com,Solomon,Scott,Oxford Realty
+019b0a12-e0ea-7beb-b492-240b4126dbef,mooreforsale.com,76e6c580-a61f-4602-a946-7eb16a5d8967,michael@mooreforsale.com,Moore Real Estate,http://www.mooreforsale.com,Moore,Michael,Moore Real Estate
+019b0a12-e0ea-7beb-b492-240c5431530d,den100.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bsaggau@den100.com,Denver 100,http://www.thedenver100.com,Saggau,Ben,Denver 100
+019b0a12-e0ea-7beb-b492-240d1ed844ef,ip-cre.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mark.matthess@ip-cre.com,Inland Pacific,http://www.ip-cre.com,Matthess,Mark,Inland Pacific
+019b0a12-e0ea-7beb-b492-240efa34d49d,manorrealestate.com,76e6c580-a61f-4602-a946-7eb16a5d8967,don@manorrealestate.com,Manor Real Estate,http://www.manorrealestate.com,Cherry,Don,Manor Real Estate
+019b0a12-e0ea-7beb-b492-240fd5342f14,qualityappraisalinc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,aaron@qualityappraisalinc.com,A Quality Appraisal,http://www.aqualityappraisal.com,Feldman,Aaron,A Quality Appraisal
+019b0a12-e0ea-7beb-b492-2410ffcb980d,fulfordhomes.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mark@fulfordhomes.com,Fulford Homes,http://www.fulfordhomes.com,Fulford,Mark,Fulford Homes
+019b0a12-e0ea-7beb-b492-24112e06ad29,mrnpm.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mikenuch@mrnpm.com,Rich Realty,http://www.richrealtygroup.com,Nuccitelli,Michael,Rich Realty
+019b0a12-e0ea-7beb-b492-2412ad530a5b,greencoastenterprises.com,76e6c580-a61f-4602-a946-7eb16a5d8967,lex.kelso@greencoastenterprises.com,Green Coast Enterprises,http://www.greencoastenterprises.com,Kelso,Lex,Green Coast Enterprises
+019b0a12-e0ea-7beb-b492-2413cd4c7f73,whatcomtitle.com,76e6c580-a61f-4602-a946-7eb16a5d8967,colleenb@whatcomtitle.com,Whatcom Land Title,http://www.whatcomtitle.com,Baldwin,Colleen,Whatcom Land Title
+019b0a12-e0ea-7beb-b492-2414516130dd,dotyproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,steve@dotyproperties.com,Era Doty Real Estate,http://www.eradotyrealestate.com,Doty,Steve,Era Doty Real Estate
+019b0a12-e0ea-7beb-b492-241507577366,point-nyc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,limor@point-nyc.com,President at Point NYC Real Estate,http://www.point-nyc.com,Eliyahu,Limor,President at Point NYC Real Estate
+019b0a12-e0ea-7beb-b492-24163522e75d,lormaxstern.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dls@lormaxstern.com,Lormax Stern Development,http://www.lormaxstern.com,Stern,Daniel,Lormax Stern Development
+019b0a12-e0ea-7beb-b492-2417a85e130e,homematters.cc,76e6c580-a61f-4602-a946-7eb16a5d8967,kathy@homematters.cc,Home Matters,http://www.homemattersllc.com,Matters,Home,Home Matters
+019b0a12-e0ea-7beb-b492-241844bf9460,swopeinvestmentproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mike@swopeinvestmentproperties.com,Swope Investment,http://www.swopeinvestmentproperties.com,Swope,Mike,Swope Investment
+019b0a12-e0ea-7beb-b492-2419aaefc65c,titlequest.net,76e6c580-a61f-4602-a946-7eb16a5d8967,bclements@titlequest.net,Titlequest,http://www.titlequest.net,Clements,Brian,Titlequest
+019b0a12-e0ea-7beb-b492-241a115f12f3,slccommercial.com,76e6c580-a61f-4602-a946-7eb16a5d8967,terrytorres@slccommercial.com,SLC Commercial,http://www.slccommercial.com,Torres,Terry,SLC Commercial
+019b0a12-e0ea-7beb-b492-241b3a658fc4,klwgroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,todd@klwgroup.com,KLW,http://www.klwgroup.com,Wilhelm,Todd,KLW
+019b0a12-e0ea-7beb-b492-241c6b845698,fcttx.com,76e6c580-a61f-4602-a946-7eb16a5d8967,brigitte.allen@fcttx.com,First Community Title,http://www.fcttx.com,Allen,Brigitte,First Community Title
+019b0a12-e0ea-7beb-b492-241d08d6659c,ajfengineering.com,76e6c580-a61f-4602-a946-7eb16a5d8967,matt@ajfengineering.com,AJF Inspections,http://www.ajfinspections.com,Watson,Matt,AJF Inspections
+019b0a12-e0ea-7beb-b492-241e68ada78d,realtracs.com,76e6c580-a61f-4602-a946-7eb16a5d8967,corey@realtracs.com,Cumberland Real Estate,http://www.cumberlandrealestate.com,Ross,Corey,Cumberland Real Estate
+019b0a12-e0ea-7beb-b492-241f8e01a191,vestasettlements.com,76e6c580-a61f-4602-a946-7eb16a5d8967,sarah.mckeone@vestasettlements.com,Vesta Settlements,http://www.vestasettlements.com,Mckeone,Sarah,Vesta Settlements
+019b0a12-e0ea-7beb-b492-2420468814a7,professional-parking.com,76e6c580-a61f-4602-a946-7eb16a5d8967,brian.hunt@professional-parking.com,Professional Parking,http://www.professional-parking.com,Hunt,Brian,Professional Parking
+019b0a12-e0ea-7beb-b492-2421e08be726,calwestrentals.com,76e6c580-a61f-4602-a946-7eb16a5d8967,tyler@calwestrentals.com,Cal-West Rentals,http://www.calwestrentals.com,Doherty,Tyler,Cal-West Rentals
+019b0a12-e0ea-7beb-b492-24220ddfb59e,thienemanbuilthomes.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mike@thienemanbuilthomes.com,RJ Thieneman,http://www.rjthieneman.com,Thieneman,Mike,RJ Thieneman
+019b0a12-e0ea-7beb-b492-2423d8f0aeed,garciaproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ivan@garciaproperties.com,Garcia,http://www.garciaproperties.com,Garcia,Ivan,Garcia
+019b0a12-e0ea-7beb-b492-2424b7a8c0cc,centerpoint-is.com,76e6c580-a61f-4602-a946-7eb16a5d8967,gtoler@centerpoint-is.com,Centerpoint Integrated,http://www.centerpoint-is.com,Toler,Greg,Centerpoint Integrated
+019b0a12-e0ea-7beb-b492-24259b7996ae,wwreynolds.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jwingert@wwreynolds.com,W.W. Reynolds,http://www.wwreynolds.com,Wingert,Jeff,W.W. Reynolds
+019b0a12-e0ea-7beb-b492-2426f7a5cff8,foxymanagement.com,76e6c580-a61f-4602-a946-7eb16a5d8967,shelly@foxymanagement.com,Foxy Management,http://www.foxymanagement.com,Fox,Shelly,Foxy Management
+019b0a12-e0ea-7beb-b492-2427b2e5c980,crowndev.com,76e6c580-a61f-4602-a946-7eb16a5d8967,rflaxman@crowndev.com,Crown Realty,http://www.crowndev.com,Flaxman,Robert,Crown Realty
+019b0a12-e0ea-7beb-b492-24288c08c74b,pritchardassociates.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jim@pritchardassociates.com,Pritchard,http://www.pritchardassociates.com,Pritchard,James,Pritchard
+019b0a12-e0ea-7beb-b492-24295afd7cbe,cb-elite.com,76e6c580-a61f-4602-a946-7eb16a5d8967,matt@cb-elite.com,Coldwell Banker Elite Wisconsin,http://www.cb-elite.com,Spheeris,Matt,Coldwell Banker Elite Wisconsin
+019b0a12-e0ea-7beb-b492-242a2d913392,zmcre.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jpinckney@zmcre.com,Zommick McMahon Commercial Real Estate,http://www.zmcre.com,Pinckney,James,Zommick McMahon Commercial Real Estate
+019b0a12-e0ea-7beb-b492-242b235c3758,dpcre.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bill.tucker@dpcre.com,Diversified Partners,http://www.dpcre.com,Tucker,Bill,Diversified Partners
+019b0a12-e0ea-7beb-b492-242c9b0374a0,elcorrealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,randyreynolds@elcorrealty.com,Elcor Realty,http://www.elcorrealty.com,Reynolds,Randy,Elcor Realty
+019b0a12-e0ea-7beb-b492-242de0d2b411,millennium-realty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bwhitaker@millennium-realty.com,Millennium Real Estate,http://www.millennium-realty.com,Whitaker,Bruce,Millennium Real Estate
+019b0a12-e0ea-7beb-b492-242e31916cc5,amcapla.com,76e6c580-a61f-4602-a946-7eb16a5d8967,wlong@amcapla.com,American Capital Realty,http://www.americancapitalrealty.com,Long,Winnie,American Capital Realty
+019b0a12-e0ea-7beb-b492-242f0ca4f5d6,integramgtcorp.com,76e6c580-a61f-4602-a946-7eb16a5d8967,esangeorge@integramgtcorp.com,Integra Management,http://www.integramanagementcorp.com,George,Ed,Integra Management
+019b0a12-e0ea-7beb-b492-243056673b67,yourwayhome.com,76e6c580-a61f-4602-a946-7eb16a5d8967,gaby.pitts@yourwayhome.com,Your Way Home,http://www.yourwayhome.com,Pitts,Gaby,Your Way Home
+019b0a12-e0ea-7beb-b492-2431eaf021af,paynterrealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dpaynter@paynterrealty.com,Paynter Realty & Investments,http://www.paynterrealty.com,Paynter,David,Paynter Realty & Investments
+019b0a12-e0ea-7beb-b492-2432a01b19c6,therealbrokerage.com,76e6c580-a61f-4602-a946-7eb16a5d8967,wacontracts@therealbrokerage.com,Five Star Real Estate Network,http://www.fivestarspokane.com,Nicolson,Doc,Five Star Real Estate Network
+019b0a12-e0ea-7beb-b492-24339bab98eb,friedmanroth.com,76e6c580-a61f-4602-a946-7eb16a5d8967,gniblock@friedmanroth.com,Friedman-Roth Realty,http://www.friedmanroth.com,Niblock,George,Friedman-Roth Realty
+019b0a12-e0ea-7beb-b492-243443984186,whitesandsnaples.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mark@whitesandsnaples.com,White Sands Realty,http://www.whitesandsnaples.com,Weber,Mark,White Sands Realty
+019b0a12-e0ea-7beb-b492-2435666c0088,northbayprop.com,76e6c580-a61f-4602-a946-7eb16a5d8967,nabbott@northbayprop.com,North Bay Property Advisors,http://www.northbayprop.com,Abbott,Nick,North Bay Property Advisors
+019b0a12-e0ea-7beb-b492-2436f41c8ccb,meyerlistings.com,76e6c580-a61f-4602-a946-7eb16a5d8967,martin@meyerlistings.com,Meyer & Company Real Estate,http://www.meyerlistings.com,Meyer,Martin,Meyer & Company Real Estate
+019b0a12-e0ea-7beb-b492-2437534ae082,lkriowa.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jeffdill@lkriowa.com,Lepic-Kroeger,http://www.lepickroeger.com,Dill,Jeff,Lepic-Kroeger
+019b0a12-e0ea-7beb-b492-2438cbefec16,hillcrestbuilders.com,76e6c580-a61f-4602-a946-7eb16a5d8967,solvang@hillcrestbuilders.com,Hillcrest Builders,http://www.hillcrestbuilders.com,Solvang,Oyvind,Hillcrest Builders
+019b0a12-e0ea-7beb-b492-2439384d5e0d,boozercompany.com,76e6c580-a61f-4602-a946-7eb16a5d8967,tedboozer@boozercompany.com,Boozer,http://www.boozercompany.com,Boozer,Ted,Boozer
+019b0a12-e0ea-7beb-b492-243a8f6968a2,bergmanrealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,steven@bergmanrealty.com,Bergman Real Estate,http://www.bergmanrealty.com,Bergman,Steven,Bergman Real Estate
+019b0a12-e0ea-7beb-b492-243b41fc52f9,thegarnergroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,erica@thegarnergroup.com,Harcourts Garner,http://www.thegarnergroup.com,Davis,Erica,Harcourts Garner
+019b0a12-e0ea-7beb-b492-243c41e7e91b,recenter.com,76e6c580-a61f-4602-a946-7eb16a5d8967,alex@recenter.com,Real Estate Center,http://www.recenter.com,Torres,Alex,Real Estate Center
+019b0a12-ea2b-71b1-9e48-1e92f064cc18,teutsch.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jwalker@teutsch.com,Teutsch,http://www.teutsch.com,Walker,John,Teutsch
+019b0a12-ea2b-71b1-9e48-1e93198e6047,deltalending.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bbauer@deltalending.com,Delta Lending,http://www.deltalending.com,Bauer,Ben,Delta Lending
+019b0a12-ea2b-71b1-9e48-1e9430a45206,midlandsrealestate.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dave@midlandsrealestate.com,Midlands Real Estate,http://www.midlandsrealestate.com,Pugh,Dave,Midlands Real Estate
+019b0a12-ea2b-71b1-9e48-1e95c0032da8,aacm.us,76e6c580-a61f-4602-a946-7eb16a5d8967,melissa@aacm.us,Association & Community,http://www.acmhoa.com,Keithly,Melissa,Association & Community
+019b0a12-ea2b-71b1-9e48-1e96621c4e44,landco.com,76e6c580-a61f-4602-a946-7eb16a5d8967,john@landco.com,Landco,http://www.landco.com,Oreilly,John,Landco
+019b0a12-ea2b-71b1-9e48-1e97996574a2,thelakesidecompanies.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mick@thelakesidecompanies.com,Lakeside Development,http://www.lakesideluxuryhomeswi.com,El-massri,Mick,Lakeside Development
+019b0a12-ea2b-71b1-9e48-1e98d020cb32,pvpwi.com,76e6c580-a61f-4602-a946-7eb16a5d8967,john@pvpwi.com,Pleasant Valley Properties,http://www.pleasantvalleyproperties.com,Scharlau,John,Pleasant Valley Properties
+019b0a12-ea2b-71b1-9e48-1e99221b4d4b,acventures.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dgrieve@acventures.com,A&C Ventures,http://www.acventures.com,Grieve,David,A&C Ventures
+019b0a12-ea2b-71b1-9e48-1e9a8dd649d4,bluestonedev.com,76e6c580-a61f-4602-a946-7eb16a5d8967,christian@bluestonedev.com,Bluestone Development,http://www.bluestonedev.com,Christensen,Christian,Bluestone Development
+019b0a12-ea2b-71b1-9e48-1e9bd2a5e487,remsrealestate.com,76e6c580-a61f-4602-a946-7eb16a5d8967,labute@remsrealestate.com,Real Estate,http://www.reshawaii.com,Labute,Robert,Real Estate
+019b0a12-ea2b-71b1-9e48-1e9c2d7bc021,remax.net,76e6c580-a61f-4602-a946-7eb16a5d8967,claranicolosi@remax.net,Re/Max Hot Springs Village,http://www.hotspringsvillagehouses.com,Nicolosi,Clara,Re/Max Hot Springs Village
+019b0a12-ea2b-71b1-9e48-1e9d94540c61,lormaxstern.com,76e6c580-a61f-4602-a946-7eb16a5d8967,horton@lormaxstern.com,Lormax Stern Development,http://www.lormaxstern.com,Horton,Jason,Lormax Stern Development
+019b0a12-ea2b-71b1-9e48-1e9eb004de00,nainorwoodgroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,louise@nainorwoodgroup.com,NAI Norwood,http://www.nainorwoodgroup.com,Norwood,Louise,NAI Norwood
+019b0a12-ea2b-71b1-9e48-1e9fe133e8c6,vfgloans.com,76e6c580-a61f-4602-a946-7eb16a5d8967,rick@vfgloans.com,Village Financial,http://www.vfgloans.com,Johnson,Rick,Village Financial
+019b0a12-ea2b-71b1-9e48-1ea014115546,cgpinc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jem@cgpinc.com,Capital Growth Properties,http://www.www.cgpincrecom,Michaelsen,John,Capital Growth Properties
+019b0a12-ea2b-71b1-9e48-1ea1d3c4cd20,fishre.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bfish@fishre.com,Fish Real Estate,http://www.fishre.com,Fish,Bill,Fish Real Estate
+019b0a12-ea2b-71b1-9e48-1ea25a67a06a,gatewayfinancial.com,76e6c580-a61f-4602-a946-7eb16a5d8967,julee.patterson@gatewayfinancial.com,Gateway Properties,http://www.gatewayproperties.com,Patterson,Julee,Gateway Properties
+019b0a12-ea2b-71b1-9e48-1ea3e0089042,kerleyfamilyhomes.com,76e6c580-a61f-4602-a946-7eb16a5d8967,j3k@kerleyfamilyhomes.com,Kerley Family Homes,http://www.kerleyfamilyhomes.com,Kerley,Joe,Kerley Family Homes
+019b0a12-ea2b-71b1-9e48-1ea4c74d42bc,redbridgeproperty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,richard@redbridgeproperty.com,Red Bridge Property Management,http://www.redbridgeproperty.com,Malangone,Richard,Red Bridge Property Management
+019b0a12-ea2b-71b1-9e48-1ea582972f66,youroffice.com,76e6c580-a61f-4602-a946-7eb16a5d8967,maleah.barton@youroffice.com,Youroffice,http://www.youroffice.com,Barton,Maleah,Youroffice
+019b0a12-ea2b-71b1-9e48-1ea69bcc1dac,scbeachrealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,kevin@scbeachrealty.com,Beach Realty,http://www.scbeachrealty.com,Derenzo,Kevin,Beach Realty
+019b0a12-ea2b-71b1-9e48-1ea7b4e41ce1,entrecommercial.com,76e6c580-a61f-4602-a946-7eb16a5d8967,djones@entrecommercial.com,Entre Commercial Realty,http://www.entrecommercial.com,Jones,Dan,Entre Commercial Realty
+019b0a12-ea2b-71b1-9e48-1ea806b8da94,tucsonrealtors.org,76e6c580-a61f-4602-a946-7eb16a5d8967,jhardy@tucsonrealtors.org,Tucson Association of Realtors,http://www.tucsonrealtors.org,Hardy,Jeremy,Tucson Association of Realtors
+019b0a12-ea2b-71b1-9e48-1ea97705eabb,nobleproperties.info,76e6c580-a61f-4602-a946-7eb16a5d8967,olimpia@nobleproperties.info,Noble Real Estate,http://www.nobleproperties.info,Gire,Olimpia,Noble Real Estate
+019b0a12-ea2b-71b1-9e48-1eaaa5286166,serranodevelopment.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dmahoney@serranodevelopment.com,Serrano Development,http://www.serranodevelopment.com,Mahoney,Dan,Serrano Development
+019b0a12-ea2b-71b1-9e48-1eab60e79615,granoffarchitects.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ii@granoffarchitects.com,Granoff Architects,http://www.granoffarchitects.com,Ioffe,Irene,Granoff Architects
+019b0a12-ea2b-71b1-9e48-1eac537b0f95,ires1.com,76e6c580-a61f-4602-a946-7eb16a5d8967,wendy@ires1.com,Integrated Real Estate,http://www.ires1.com,Vance,Wendy,Integrated Real Estate
+019b0a12-ea2b-71b1-9e48-1ead2b3fadc4,thelegacygrouprealestate.com,76e6c580-a61f-4602-a946-7eb16a5d8967,john@thelegacygrouprealestate.com,Legacy Group Real Estate,http://www.thelegacygrouprealestate.com,Graham,John,Legacy Group Real Estate
+019b0a12-ea2b-71b1-9e48-1eae487ef753,lawnrealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,james@lawnrealty.com,ReMax Now,http://www.findrealtynow.com,Jensen,James,ReMax Now
+019b0a12-ea2b-71b1-9e48-1eaf098fff2a,thesilver-group.com,76e6c580-a61f-4602-a946-7eb16a5d8967,barry@thesilver-group.com,Silver,http://www.thesilver-group.com,Silver,Barry,Silver
+019b0a12-ea2b-71b1-9e48-1eb04f624a18,manhattanconnection.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ronen@manhattanconnection.com,Manhattan Connection,http://www.manhattanconnection.com,Korin,Ronen,Manhattan Connection
+019b0a12-ea2b-71b1-9e48-1eb12ffa0c84,naimidmichigan.com,76e6c580-a61f-4602-a946-7eb16a5d8967,nvlahakis@naimidmichigan.com,NAI Mid-Michigan,http://www.naimidmichigan.com,Vlahakis,Nick,NAI Mid-Michigan
+019b0a12-ea2b-71b1-9e48-1eb242791f40,empirepm.net,76e6c580-a61f-4602-a946-7eb16a5d8967,diana@empirepm.net,Empire Property,http://www.empirepropertymanagement.net,Waggoner,Diana,Empire Property
+019b0a12-ea2b-71b1-9e48-1eb3edd5751e,kelleher-sadowsky.com,76e6c580-a61f-4602-a946-7eb16a5d8967,umphrey@kelleher-sadowsky.com,Kelleher & Sadowsky,http://www.kelleher-sadowsky.com,Umphrey,Jim,Kelleher & Sadowsky
+019b0a12-ea2b-71b1-9e48-1eb4a14ad442,studio12austin.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bryan@studio12austin.com,Studio 12,http://www.studio12austin.com,Parker,Bryan,Studio 12
+019b0a12-ea2b-71b1-9e48-1eb5d5ad635b,ultimateproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mike@ultimateproperties.com,Ultimate Properties,http://www.ultimateproperties.com,Reid,Mike,Ultimate Properties
+019b0a12-ea2b-71b1-9e48-1eb63736b841,waderamey.com,76e6c580-a61f-4602-a946-7eb16a5d8967,wade@waderamey.com,Ramey & Associates,http://www.louisvillebestrentals.com,Ramey,Wade,Ramey & Associates
+019b0a12-ea2b-71b1-9e48-1eb77dfff975,friedmanproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jfriedman@friedmanproperties.com,Friedman,http://www.friedmanproperties.com,Friedman,Joshua,Friedman
+019b0a12-ea2b-71b1-9e48-1eb82e871e76,johnflatleyco.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jf@johnflatleyco.com,John Flatley,http://www.flatleyco.com,Flatley,John,John Flatley
+019b0a12-ea2b-71b1-9e48-1eb9732bf4f8,landmark.com.eg,76e6c580-a61f-4602-a946-7eb16a5d8967,jeremy@landmark.com.eg,Landmark Real Estate,http://www.landmark.com.eg,Stanfield,Jeremy,Landmark Real Estate
+019b0a12-ea2b-71b1-9e48-1eba90bed44e,brookingshomes.com,76e6c580-a61f-4602-a946-7eb16a5d8967,david@brookingshomes.com,Best Choice Real Estate,http://www.brookingshomes.com,Taillon,David,Best Choice Real Estate
+019b0a12-ea2b-71b1-9e48-1ebbbd1cb497,melia-homes.com,76e6c580-a61f-4602-a946-7eb16a5d8967,tyler@melia-homes.com,Melia Homes,http://www.meliahomes.com,Parsons,Tyler,Melia Homes
+019b0a12-ea2b-71b1-9e48-1ebc9ef36427,maurypeople.com,76e6c580-a61f-4602-a946-7eb16a5d8967,gary@maurypeople.com,Maury People Sotheby's,http://www.themaurypeople.com,Winn,Gary,Maury People Sotheby's
+019b0a12-ea2b-71b1-9e48-1ebdaa53dddd,open-homes.com,76e6c580-a61f-4602-a946-7eb16a5d8967,anthony@open-homes.com,Open Homes,http://www.open-homes.com,Carluccio,Anthony,Open Homes
+019b0a12-ea2b-71b1-9e48-1ebef2a6c78d,fcfunding.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jsmyth@fcfunding.com,First California Funding,http://www.fcfunding.com,Smyth,John,First California Funding
+019b0a12-ea2b-71b1-9e48-1ebf8e4ac98d,duvalldecker.com,76e6c580-a61f-4602-a946-7eb16a5d8967,amd@duvalldecker.com,Duvall Decker,http://www.duvalldecker.com,Decker,Anne,Duvall Decker
+019b0a12-ea2b-71b1-9e48-1ec040db22b7,zre.com,76e6c580-a61f-4602-a946-7eb16a5d8967,zaveralb@zre.com,Zeal,http://www.zealcommunities.me,Zaveral,Bob,Zeal
+019b0a12-ea2b-71b1-9e48-1ec1d3c66fb1,seascapeproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,rwetzel@seascapeproperties.com,Sea Scape,http://www.seascapevacationhomes.com,Wetzel,Ryan,Sea Scape
+019b0a12-ea2b-71b1-9e48-1ec24022b78d,iveygroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,matt.ivey@iveygroup.com,Ivey Homes,http://www.iveyhomes.com,Ivey,Matt,Ivey Homes
+019b0a12-ea2b-71b1-9e48-1ec3444bdeb2,camtaylor.com,76e6c580-a61f-4602-a946-7eb16a5d8967,phil@camtaylor.com,Cam Taylor,http://www.camtaylor.com,Giessler,Phil,Cam Taylor
+019b0a12-ea2b-71b1-9e48-1ec4e6ed7bfe,jennetteproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,richard@jennetteproperties.com,Jennette,http://www.jennetteproperties.com,Jennette,Richard,Jennette
+019b0a12-ea2b-71b1-9e48-1ec563376288,phoenix-homes.org,76e6c580-a61f-4602-a946-7eb16a5d8967,miket@phoenix-homes.org,Phoenix Homes,http://www.phoenixhomes.ca,Tran-dac,Mike,Phoenix Homes
+019b0a12-ea2b-71b1-9e48-1ec6f36c1c7b,hogancompanies.com,76e6c580-a61f-4602-a946-7eb16a5d8967,thogan@hogancompanies.com,Hogan,http://www.hogancompanies.com,Hogan,Tom,Hogan
+019b0a12-ea2b-71b1-9e48-1ec7b5eb6180,northstarrealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,katie@northstarrealty.com,Northstar Realty,http://www.northstarrealty.com,Mallah,Katie,Northstar Realty
+019b0a12-ea2b-71b1-9e48-1ec8baf3e482,sandlinhomes.com,76e6c580-a61f-4602-a946-7eb16a5d8967,scott@sandlinhomes.com,Sandlin,http://www.sandlinhomes.com,Sandlin,Scott,Sandlin
+019b0a12-ea2b-71b1-9e48-1ec90f2bf504,kenmoreteam.com,76e6c580-a61f-4602-a946-7eb16a5d8967,karen@kenmoreteam.com,Kenmore Team,http://www.kenmoreteam.com,Kenmore,Karen,Kenmore Team
+019b0a12-ea2b-71b1-9e48-1ecae0550b0d,chaffinlight.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jchaffin@chaffinlight.com,Chaffin Light,http://www.charleypodolak.com,Chaffin,Jim,Chaffin Light
+019b0a12-ea2b-71b1-9e48-1ecb2b6432dd,pabstkinney.com,76e6c580-a61f-4602-a946-7eb16a5d8967,kristiepabst@pabstkinney.com,Pabst Kinney,http://www.pabstkinney.com,Pabst,Kristie,Pabst Kinney
+019b0a12-ea2b-71b1-9e48-1eccaf33a422,tkrmgmt.com,76e6c580-a61f-4602-a946-7eb16a5d8967,howard@tkrmgmt.com,TKR,http://www.tkrmgmt.com,Mandel,Howard,TKR
+019b0a12-ea2b-71b1-9e48-1ecd191df6bc,amcorprop.com,76e6c580-a61f-4602-a946-7eb16a5d8967,rthomas@amcorprop.com,Amcor,,Thomas,Robin,Amcor
+019b0a12-ea2b-71b1-9e48-1ece6084a48b,broderickgroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,furr@broderickgroup.com,Broderick,http://www.broderickgroup.com,Furr,Jason,Broderick
+019b0a12-ea2b-71b1-9e48-1ecff9f315dd,remax-mi.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mmetzner@remax-mi.com,Re/max Michigan,http://www.remax-michigan.com,Metzner,Michel,Re/max Michigan
+019b0a12-ea2b-71b1-9e48-1ed052704819,andersonappraisal.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mark@andersonappraisal.com,Anderson Appraisal,http://www.andersonappraisal.com,Mcdaniel,Mark,Anderson Appraisal
+019b0a12-ea2b-71b1-9e48-1ed10024a38e,cablespeed.com,76e6c580-a61f-4602-a946-7eb16a5d8967,taymad@cablespeed.com,Karnes,http://www.karnesco.com,Karnes,Susan,Karnes
+019b0a12-ea2b-71b1-9e48-1ed2fca31d8d,deltaassociatesnw.com,76e6c580-a61f-4602-a946-7eb16a5d8967,slefler@deltaassociatesnw.com,Delta,http://www.deltaassociates.com,Lefler,Steve,Delta
+019b0a12-ea2b-71b1-9e48-1ed39cd0b193,forestryrealestate.com,76e6c580-a61f-4602-a946-7eb16a5d8967,pdubose@forestryrealestate.com,DDK Forestry,http://www.forestryrealestate.com,Dubose,Pat,DDK Forestry
+019b0a12-ea2b-71b1-9e48-1ed4d72f9294,bmpatl.com,76e6c580-a61f-4602-a946-7eb16a5d8967,sashley@bmpatl.com,Bullock Mannelly,http://www.bmpatl.com,Ashley,Stan,Bullock Mannelly
+019b0a12-ea2b-71b1-9e48-1ed570b08d49,timeontargetsecurity.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mike@timeontargetsecurity.com,Americas Title,http://www.americastitle.net,Harris,Mike,Americas Title
+019b0a12-ea2b-71b1-9e48-1ed6f235ff41,myalarmone.com,76e6c580-a61f-4602-a946-7eb16a5d8967,lennyp@myalarmone.com,Alarm One,http://www.alarmonesecurity.com,Peiffer,Lenny,Alarm One
+019b0a12-ea2b-71b1-9e48-1ed7e0f72a9b,bayareapropertymanagement.com,76e6c580-a61f-4602-a946-7eb16a5d8967,debra@bayareapropertymanagement.com,Bay Area,http://www.bayareapropertymanagement.com,Coolidge,Debra,Bay Area
+019b0a12-ea2b-71b1-9e48-1ed875ea86d4,theritchiegroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,rob@theritchiegroup.com,Ritchie,http://www.theritchiegroup.com,Heywood,Rob,Ritchie
+019b0a12-ea2b-71b1-9e48-1ed99963d897,heggcompanies.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ahobbs@heggcompanies.com,Experience Hegg,http://www.heggcompanies.com,Hobbs,Alex,Experience Hegg
+019b0a12-ea2b-71b1-9e48-1eda3082c22b,ratnerpm.com,76e6c580-a61f-4602-a946-7eb16a5d8967,adom@ratnerpm.com,Ratner,http://www.ratnerpropertymanagement.com,Stauber,Adom,Ratner
+019b0a12-ea2b-71b1-9e48-1edbdc131d78,dhpfurniture.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dan.holmstrom@dhpfurniture.com,DHP,http://www.dhp.org.uk,Holmstrom,Dan,DHP
+019b0a12-ea2b-71b1-9e48-1edc40d9c2e8,redfoxrealtyteam.com,76e6c580-a61f-4602-a946-7eb16a5d8967,kirstenbrown@redfoxrealtyteam.com,Red Fox,http://www.redfoxrealtors.com,Brown,Kirsten,Red Fox
+019b0a12-ea2b-71b1-9e48-1eddc6efc7b8,mcclellanpark.com,76e6c580-a61f-4602-a946-7eb16a5d8967,lkelley@mcclellanpark.com,McClellan Business Park,http://www.mcclellanpark.com,Kelley,Larry,McClellan Business Park
+019b0a12-ea2b-71b1-9e48-1ede501bb198,therealtymedics.com,76e6c580-a61f-4602-a946-7eb16a5d8967,tommy@therealtymedics.com,Realty Medics,http://www.therealtymedics.com,Weclew,Tommy,Realty Medics
+019b0a12-ea2b-71b1-9e48-1edfc2660b9f,domicileproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,julie@domicileproperties.com,Domicile,http://www.domicileproperties.com,Rogers,Julie,Domicile
+019b0a12-ea2b-71b1-9e48-1ee089fa936b,vglltd.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mhitsman@vglltd.com,Vaughan,http://www.vglltd.com,Hitsman,Mike,Vaughan
+019b0a12-ea2b-71b1-9e48-1ee14f72f539,vanguardpg.com,76e6c580-a61f-4602-a946-7eb16a5d8967,gbarnes@vanguardpg.com,Vanguard,http://www.vanguardproperty.com,Barnes,George,Vanguard
+019b0a12-ea2b-71b1-9e48-1ee2ddc69caa,laflorida.com,76e6c580-a61f-4602-a946-7eb16a5d8967,glandreth@laflorida.com,La Florida Coastal,http://www.laflorida.com,Landreth,Gay,La Florida Coastal
+019b0a12-ea2b-71b1-9e48-1ee32663f814,cabotandcompany.com,76e6c580-a61f-4602-a946-7eb16a5d8967,joe@cabotandcompany.com,Cabot,http://www.cabotandcompany.com,Palermino,Joseph,Cabot
+019b0a12-ea2b-71b1-9e48-1ee4ec2d3b7d,crescapital.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dnorris@crescapital.com,Continental Real Estate,http://www.gocres.com,Norris,David,Continental Real Estate
+019b0a12-ea2b-71b1-9e48-1ee51ad7fd29,gglmke.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mg@gglmke.com,Gardner,http://www.gardnergroup.com,Gardner,Michael,Gardner
+019b0a12-ea2b-71b1-9e48-1ee6e86ca1d6,realstarmanage.com,76e6c580-a61f-4602-a946-7eb16a5d8967,herman@realstarmanage.com,Real Star,http://www.realstarmanage.com,Schlabach,Herman,Real Star
+019b0a12-ea2b-71b1-9e48-1ee70a9136c6,ntnonline.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mgohman@ntnonline.com,National Tenant Network,http://www.ntnonline.com,Gohman,Marcia,National Tenant Network
+019b0a12-ea2b-71b1-9e48-1ee847861272,exclusivepropertiesus.com,76e6c580-a61f-4602-a946-7eb16a5d8967,shelley@exclusivepropertiesus.com,Exclusive Properties Isle of Palms,http://www.exclusivepropertiesus.com,Miles,Shelley,Exclusive Properties Isle of Palms
+019b0a12-ea2b-71b1-9e48-1ee968517bee,pikeconstruction.com,76e6c580-a61f-4602-a946-7eb16a5d8967,djw@pikeconstruction.com,Pike Construction,http://www.pikeconstruction.com,Weiner,David,Pike Construction
+019b0a12-ea2b-71b1-9e48-1eeaf0bb3ba0,armstrongproperty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,lisa@armstrongproperty.com,Armstrong Property Management,http://www.armstrongproperty.com,Armstrong,Lisa,Armstrong Property Management
+019b0a12-ea2b-71b1-9e48-1eebca907f3d,pd-properties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,darwin@pd-properties.com,PD Properties,http://www.pdpropertiesnyc.com,Gebbie,Darwin,PD Properties
+019b0a12-ea2b-71b1-9e48-1eec5873ffde,boone.net,76e6c580-a61f-4602-a946-7eb16a5d8967,vwoodard@boone.net,Advanced Realty,http://www.advancedrealtycorp.com,Woodard,Vivian,Advanced Realty
+019b0a12-ea2b-71b1-9e48-1eed313e5548,rmrentals.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jennifer@rmrentals.com,Rendezvous Mountain Rentals,http://www.rmrentals.com,Kilgrow,Jennifer,Rendezvous Mountain Rentals
+019b0a12-ea2b-71b1-9e48-1eeed7243791,villarioestates.com,76e6c580-a61f-4602-a946-7eb16a5d8967,guribe@villarioestates.com,Fresno Association of Realtors,http://www.fresnorealtors.com,Uribe,George,Fresno Association of Realtors
+019b0a12-ea2b-71b1-9e48-1eef9684460e,kelleyrege.com,76e6c580-a61f-4602-a946-7eb16a5d8967,paulrege@kelleyrege.com,Kelley & Rege Properties,http://www.kelleyrege.com,Rege,Paul,Kelley & Rege Properties
+019b0a12-ea2b-71b1-9e48-1ef0e66f76a2,bergman-group.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dan@bergman-group.com,NAI Bergman,http://www.bergmancommercial.com,Feigelson,Daniel,NAI Bergman
+019b0a12-ea2b-71b1-9e48-1ef1ab5024fd,nradvisors.net,76e6c580-a61f-4602-a946-7eb16a5d8967,bob@nradvisors.net,National Realty Advisors,http://www.nradvisors.net,Stone,Bob,National Realty Advisors
+019b0a12-ea2b-71b1-9e48-1ef2d5902034,pdxrenovations.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jtaylor@pdxrenovations.com,PDX Renovations,http://www.pdxrenovations.com,Taylor,Joseph,PDX Renovations
+019b0a12-ea2b-71b1-9e48-1ef3d71ee4fd,mamc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,brandy.workman@mamc.com,Atlantic,http://www.atmgt.com,Workman,Brandy,Atlantic
+019b0a12-ea2b-71b1-9e48-1ef40259cf31,carolinamornings.com,76e6c580-a61f-4602-a946-7eb16a5d8967,katie@carolinamornings.com,Carolina Mornings,http://www.carolinamornings.com,Smart,Katie,Carolina Mornings
+019b0a12-ea2b-71b1-9e48-1ef5b118ab66,isramrealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,shaul@isramrealty.com,Isram Realty,http://www.isramrealtygroup.com,Rikman,Shaul,Isram Realty
+019b0a12-f2f5-7506-be56-3ce594f39125,mercuryrealestategroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,joseph.cristinzio@mercuryrealestategroup.com,Mercury Real Estate,http://www.mercuryrealestategroup.com,Cristinzio,Joseph,Mercury Real Estate
+019b0a12-f2f5-7506-be56-3ce6887b7f3c,engelrealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,wbutler@engelrealty.com,Engel Realty,http://www.engelrealty.com,Butler,William,Engel Realty
+019b0a12-f2f5-7506-be56-3ce708f911dd,burkeinvestments.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dburke@burkeinvestments.com,Burke Real Estate,http://www.burkegroup.net,Burke,Daniel,Burke Real Estate
+019b0a12-f2f5-7506-be56-3ce8c016be65,classiccountryland.com,76e6c580-a61f-4602-a946-7eb16a5d8967,scott@classiccountryland.com,Classic Country Land,http://www.classiccountryland.com,W,Scott,Classic Country Land
+019b0a12-f2f5-7506-be56-3ce9cc798d15,hayden-properties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,sean@hayden-properties.com,Hayden Properties,http://www.hayden-properties.com,Hayden,Sean,Hayden Properties
+019b0a12-f2f5-7506-be56-3cea7e93fdee,tnvalleytitle.com,76e6c580-a61f-4602-a946-7eb16a5d8967,lee@tnvalleytitle.com,Tennessee Valley Title,http://www.tnvalleytitle.com,Ownby,Lee,Tennessee Valley Title
+019b0a12-f2f5-7506-be56-3cebe3dfd152,mmhoaservices.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mickey@mmhoaservices.com,M&M Property Management,http://www.mmpropmgt.com,Murach,Mickey,M&M Property Management
+019b0a12-f2f5-7506-be56-3cec4ac147cf,strataequity.com,76e6c580-a61f-4602-a946-7eb16a5d8967,carlosm@strataequity.com,Strata Equity,http://www.strataequity.com,Michan,Carlos,Strata Equity
+019b0a12-f2f5-7506-be56-3ced854797e9,mtnpropmgmt.com,76e6c580-a61f-4602-a946-7eb16a5d8967,thea@mtnpropmgmt.com,Mountain Property Management,http://www.mtnpm.com,Gamble,Thea,Mountain Property Management
+019b0a12-f2f5-7506-be56-3cee49f3180d,moorerents.com,76e6c580-a61f-4602-a946-7eb16a5d8967,len@moorerents.com,Moore Real Estate,http://www.mooreforsale.com,Moore,Len,Moore Real Estate
+019b0a12-f2f5-7506-be56-3cef7b163b48,landrorealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,brandon@landrorealty.com,Landro Fox Cities,http://www.landrorealty.com,Landro,Brandon,Landro Fox Cities
+019b0a12-f2f5-7506-be56-3cf0e7cf8a10,thehornco.com,76e6c580-a61f-4602-a946-7eb16a5d8967,sharon@thehornco.com,Horn,http://www.thehornco.com,Fitzpatrick,Sharon,Horn
+019b0a12-f2f5-7506-be56-3cf1904c6a5d,dhg.nl,76e6c580-a61f-4602-a946-7eb16a5d8967,peter@dhg.nl,DHG,http://www.dhg.nl,Lee,Peter,DHG
+019b0a12-f2f5-7506-be56-3cf2942d3541,jackiemccormick.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jackie@jackiemccormick.com,McCormick,http://www.jackiemccormick.com,Mccormick,Jackie,McCormick
+019b0a12-f2f5-7506-be56-3cf3ab0362ba,wilkinsonhomesllc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,chrissy@wilkinsonhomesllc.com,Wilkinson Homes,http://www.wilkinsonhomesllc.com,Wilkinson,Chrissy,Wilkinson Homes
+019b0a12-f2f5-7506-be56-3cf45eb3bd58,pinnaclepropertymanagement.com,76e6c580-a61f-4602-a946-7eb16a5d8967,meder@pinnaclepropertymanagement.com,Pinnacle,http://www.ppmorlando.com,Eder,Mark,Pinnacle
+019b0a12-f2f5-7506-be56-3cf54d168cfd,uli.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bbinkowski@uli.com,Urban Land Interests,http://www.uli.com,Binkowski,Brad,Urban Land Interests
+019b0a12-f2f5-7506-be56-3cf6617c9639,jcbarprop.com,76e6c580-a61f-4602-a946-7eb16a5d8967,rg3@jcbarprop.com,JC Bar Properties,http://www.jcbarprop.com,Gothier,Robert,JC Bar Properties
+019b0a12-f2f5-7506-be56-3cf7d15a3306,jpday.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ffz@jpday.com,Joseph P. Day,http://www.jpday.com,Zimbaro,Frank,Joseph P. Day
+019b0a12-f2f5-7506-be56-3cf80efb014c,bbhousing.org,76e6c580-a61f-4602-a946-7eb16a5d8967,nathifa@bbhousing.org,B'nai B'rith Housing,http://www.bbhousing.org,Debellotte,Nathifa,B'nai B'rith Housing
+019b0a12-f2f5-7506-be56-3cf920b6f6de,hawaiinursery.com,76e6c580-a61f-4602-a946-7eb16a5d8967,peter@hawaiinursery.com,Hawaiian Sunshine Nursery,http://www.hawaiiansunshinenursery.com,Peter,Rha,Hawaiian Sunshine Nursery
+019b0a12-f2f5-7506-be56-3cfa90a1808c,brockdevelopmentcorp.com,76e6c580-a61f-4602-a946-7eb16a5d8967,peter@brockdevelopmentcorp.com,Brock Development,http://www.brockdevelopmentcorp.com,Brock,Peter,Brock Development
+019b0a12-f2f5-7506-be56-3cfbce4b6871,westwindhomes.com,76e6c580-a61f-4602-a946-7eb16a5d8967,pcarthur@westwindhomes.com,Westwind Homes,http://www.westwindhomes.com,Arthur,Chris,Westwind Homes
+019b0a12-f2f5-7506-be56-3cfc7affa619,mattinglyford.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dennis@mattinglyford.com,Mattingly Ford Title,http://www.mattinglyford.com,Mattingly,Dennis,Mattingly Ford Title
+019b0a12-f2f5-7506-be56-3cfd82d68a10,ira-realty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,brent@ira-realty.com,Interstate Commercial Real Estate,http://www.ira-realty.com,Roswall,Brent,Interstate Commercial Real Estate
+019b0a12-f2f5-7506-be56-3cfede07fed7,carvajalgroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,eric@carvajalgroup.com,Carvajal,http://www.carvajalgroup.com,Carvajal,Eric,Carvajal
+019b0a12-f2f5-7506-be56-3cffbb0e0929,heynonny.com,76e6c580-a61f-4602-a946-7eb16a5d8967,chip@heynonny.com,Brooks,http://www.brooksproperties.com,Brooks,Chip,Brooks
+019b0a12-f2f5-7506-be56-3d005ab9b4d5,kailasinc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mohan@kailasinc.com,Kailas,http://www.kailasinc.com,Kailas,Mohan,Kailas
+019b0a12-f2f5-7506-be56-3d01bf7b14d8,pioneerrealtycapital.com,76e6c580-a61f-4602-a946-7eb16a5d8967,chouse@pioneerrealtycapital.com,Pioneer Realty Capital,http://www.pioneerrealtycapital.com,House,Carlos,Pioneer Realty Capital
+019b0a12-f2f5-7506-be56-3d02a77b7cd2,bennetthg.com,76e6c580-a61f-4602-a946-7eb16a5d8967,susan@bennetthg.com,Bennett Hospitality,http://www.bennetthospitality.com,Bennett,Susan,Bennett Hospitality
+019b0a12-f2f5-7506-be56-3d039ad27551,mazzottaequipment.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jaime@mazzottaequipment.com,Mazzotta Equipment,http://www.mazzottarentals.com,Rooke,Jaime,Mazzotta Equipment
+019b0a12-f2f5-7506-be56-3d04dc846779,signaturepartners.com,76e6c580-a61f-4602-a946-7eb16a5d8967,weiss@signaturepartners.com,Signature Partners,http://www.signaturepartners.com,Weiss,Andrew,Signature Partners
+019b0a12-f2f5-7506-be56-3d054e22010a,seilertucker.com,76e6c580-a61f-4602-a946-7eb16a5d8967,michelle@seilertucker.com,Capital Business,http://www.capitalbbw.com,Tucker,Michelle,Capital Business
+019b0a12-f2f5-7506-be56-3d066f50af2c,piedmontsprings.net,76e6c580-a61f-4602-a946-7eb16a5d8967,tcoughlin@piedmontsprings.net,Piedmont Springs,http://www.piedmontsprings.com,Coughlin,Tom,Piedmont Springs
+019b0a12-f2f5-7506-be56-3d073f5c72be,mpmsandiego.com,76e6c580-a61f-4602-a946-7eb16a5d8967,anthony@mpmsandiego.com,Metropolitan Properties,http://www.mpnashville615.com,Karnazes,Anthony,Metropolitan Properties
+019b0a12-f2f5-7506-be56-3d08d0f6b134,mplso2.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mfalconer@mplso2.com,Minneapolis Oxygen,http://www.mplso2.com,Falconer,Mark,Minneapolis Oxygen
+019b0a12-f2f5-7506-be56-3d09b636c5d7,peeblescorp.com,76e6c580-a61f-4602-a946-7eb16a5d8967,donpeebles@peeblescorp.com,Peebles,http://www.peeblescorp.com,Peebles,Don,Peebles
+019b0a12-f2f5-7506-be56-3d0a9ebf8075,newwavebostonre.com,76e6c580-a61f-4602-a946-7eb16a5d8967,vibes@newwavebostonre.com,New Wave Boston Real Estate,http://www.newwavebostonre.com,Estate,New,New Wave Boston Real Estate
+019b0a12-f2f5-7506-be56-3d0b8a405024,sandyberkenbush.com,76e6c580-a61f-4602-a946-7eb16a5d8967,sandy@sandyberkenbush.com,Stone Ridge Properties,http://www.stoneridgeproperties.com,Berkenbush,Sandy,Stone Ridge Properties
+019b0a12-f2f5-7506-be56-3d0c1928d2c3,homesthatclick.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jerry@homesthatclick.com,Homes That Click,http://www.homesthatclick.com,Harr,Jerry,Homes That Click
+019b0a12-f2f5-7506-be56-3d0de0963366,provoland.com,76e6c580-a61f-4602-a946-7eb16a5d8967,doug@provoland.com,Provo Land Title,http://www.provoland.com,Pinder,Doug,Provo Land Title
+019b0a12-f2f5-7506-be56-3d0e92e04283,hickeyltd.com,76e6c580-a61f-4602-a946-7eb16a5d8967,neil@hickeyltd.com,Hickey,http://www.hickeyandassociates.com,Hickey,Neil,Hickey
+019b0a12-f2f5-7506-be56-3d0f43e8874a,sellstate.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jharrington@sellstate.com,Sellstate Gulf Coast,,Harrington,Jim,Sellstate Gulf Coast
+019b0a12-f2f5-7506-be56-3d108bbb1e39,peakcml.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bnelson@peakcml.com,Peak Commercial,http://www.peakcommercial.com,Nelson,Brad,Peak Commercial
+019b0a12-f2f5-7506-be56-3d1166f76d33,keyrealestatellc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,doug@keyrealestatellc.com,Key Real Estate,http://www.keyrealestatellc.com,Sprayberry,Douglas,Key Real Estate
+019b0a12-f2f5-7506-be56-3d12a4afcb87,huntprop.com,76e6c580-a61f-4602-a946-7eb16a5d8967,al@huntprop.com,Hunt Properties,http://www.huntprop.com,Allred,Al,Hunt Properties
+019b0a12-f2f5-7506-be56-3d138c1a6d2d,deltalending.com,76e6c580-a61f-4602-a946-7eb16a5d8967,markd@deltalending.com,Delta Lending,http://www.deltalending.com,Dimercurio,Mark,Delta Lending
+019b0a12-f2f5-7506-be56-3d1495b784b9,creditcapitalllc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bruce@creditcapitalllc.com,Credit Capital,http://www.creditcapitalllc.com,Nelson,Bruce,Credit Capital
+019b0a12-f2f5-7506-be56-3d1530216a86,thectgroupllc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ctini@thectgroupllc.com,CT Group,http://www.thectgroupllc.com,Tini,Charles,CT Group
+019b0a12-f2f5-7506-be56-3d168e6882c7,csmandson.com,76e6c580-a61f-4602-a946-7eb16a5d8967,patricia@csmandson.com,Chas S Middleton,http://www.chassmiddleton.com,Middleton,Patricia,Chas S Middleton
+019b0a12-f2f5-7506-be56-3d17808155eb,findthewin.com,76e6c580-a61f-4602-a946-7eb16a5d8967,samthomas@findthewin.com,Providence Group,http://www.providencegrouprealty.com,Thomas,Sam,Providence Group
+019b0a12-f2f5-7506-be56-3d1860ed6671,thepegasusgroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mark.villamar@thepegasusgroup.com,Pegasus Group,,Villamar,Mark,Pegasus Group
+019b0a12-f2f5-7506-be56-3d19c84d468e,buyersrealtyinc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,abewolf@buyersrealtyinc.com,Buyers Realty,http://www.buyersrealtyinc.com,Wolf,Abe,Buyers Realty
+019b0a12-f2f5-7506-be56-3d1a16975364,mayhoodcompany.com,76e6c580-a61f-4602-a946-7eb16a5d8967,david@mayhoodcompany.com,Mayhood,http://www.mayhoodcompany.com,Mayhood,David,Mayhood
+019b0a12-f2f5-7506-be56-3d1b64a93db3,vincentcos.com,76e6c580-a61f-4602-a946-7eb16a5d8967,aaron@vincentcos.com,Vincent,http://www.vincentcos.com,Maciej,Aaron,Vincent
+019b0a12-f2f5-7506-be56-3d1c553359e0,midatlanticcommercial.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mspencer@midatlanticcommercial.com,Mid-Atlantic Commercial Real Estate,http://www.midatlanticcommercialrealty.com,Spencer,Monty,Mid-Atlantic Commercial Real Estate
+019b0a12-f2f5-7506-be56-3d1dd8716b3f,first-advisors.com,76e6c580-a61f-4602-a946-7eb16a5d8967,john@first-advisors.com,First Capital Advisors,http://www.fca-grp.com,Truckenbrod,John,First Capital Advisors
+019b0a12-f2f5-7506-be56-3d1e0b8d0582,newagainhouses.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ktolbert@newagainhouses.com,New Again Houses,http://www.newagainhouses.com,Tolbert,Ken,New Again Houses
+019b0a12-f2f5-7506-be56-3d1f9a80c02d,pinpointprops.com,76e6c580-a61f-4602-a946-7eb16a5d8967,carl@pinpointprops.com,Pinpoint Properties,http://www.pinpointproperties.com,Stoudemire,Carl,Pinpoint Properties
+019b0a12-f2f5-7506-be56-3d2031c3c274,tandemproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,billroe@tandemproperties.com,Tandem Properties,http://www.tandemproperties.com,Roe,Bill,Tandem Properties
+019b0a12-f2f5-7506-be56-3d2157188601,butler-brothers.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bbutler@butler-brothers.com,Butler Brothers,http://www.butler-brothers.com,Butler,Brian,Butler Brothers
+019b0a12-f2f5-7506-be56-3d22d585f41c,lcjcompanies.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jewashburn@lcjcompanies.com,LCJ Management,http://www.lcjcompanies.com,Washburn,Jim,LCJ Management
+019b0a12-f2f5-7506-be56-3d23661690c6,baldwinbros.com,76e6c580-a61f-4602-a946-7eb16a5d8967,abaldwin@baldwinbros.com,Baldwin Brothers,http://www.baldwinbros.com,Baldwin,Aaron,Baldwin Brothers
+019b0a12-f2f5-7506-be56-3d24a8d399c6,tarlton.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mphilbrick@tarlton.com,Tarlton,http://www.tarlton.com,Philbrick,Melissa,Tarlton
+019b0a12-f2f5-7506-be56-3d2500fe502e,hellerorg.com,76e6c580-a61f-4602-a946-7eb16a5d8967,scott@hellerorg.com,Heller,http://www.hellerorg.com,Heller,Scott,Heller
+019b0a12-f2f5-7506-be56-3d268f3c73bb,kimmerle.com,76e6c580-a61f-4602-a946-7eb16a5d8967,paulnewman@kimmerle.com,Kimmerle,http://www.kimmerle.com,Newman,Paul,Kimmerle
+019b0a12-f2f5-7506-be56-3d2714d7d4a9,nc.rr.com,76e6c580-a61f-4602-a946-7eb16a5d8967,gefird1@nc.rr.com,Efird Appraisals,http://www.efirdappraisals.com,Efird,Gregge,Efird Appraisals
+019b0a12-f2f5-7506-be56-3d28c5f498cd,riverwayproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,james@riverwayproperties.com,Riverway Properties,http://www.riverwayproperties.com,Santasiero,James,Riverway Properties
+019b0a12-f2f5-7506-be56-3d292597db94,lmbgroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bmcclain@lmbgroup.com,LMB Real Estate,http://www.lmbgroup.com,Mcclain,Bill,LMB Real Estate
+019b0a12-f2f5-7506-be56-3d2a6412040f,urbanvisions.com,76e6c580-a61f-4602-a946-7eb16a5d8967,michael@urbanvisions.com,Urban Visions,http://www.urbanvisions.com,Burrill,Michael,Urban Visions
+019b0a12-f2f5-7506-be56-3d2ba78fbb96,corcompanies.com,76e6c580-a61f-4602-a946-7eb16a5d8967,laiello@corcompanies.com,COR Development,http://www.corcompanies.com,Aiello,Lou,COR Development
+019b0a12-f2f5-7506-be56-3d2cf7b7556d,dovecontracting.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jdove@dovecontracting.com,Dove Contracting,http://www.buildwithdove.com,Dove,Jim,Dove Contracting
+019b0a12-f2f5-7506-be56-3d2d2941ddac,ejgpropertymanagement.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ejg@ejgpropertymanagement.com,EJG Property Management,http://www.ejgpropertymanagement.com,Gerjes,Elias,EJG Property Management
+019b0a12-f2f5-7506-be56-3d2e5dc96c96,lee-pg.com,76e6c580-a61f-4602-a946-7eb16a5d8967,terry@lee-pg.com,Lee Properties,http://www.emeraldpmstx.com,Lee,Terry,Lee Properties
+019b0a12-f2f5-7506-be56-3d2ff78bd575,elberon.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bob@elberon.com,Elberon Development,http://www.elberon.com,Klimowicz,Bob,Elberon Development
+019b0a12-f2f5-7506-be56-3d301a93d9bd,southstarco.com,76e6c580-a61f-4602-a946-7eb16a5d8967,gmcgehee@southstarco.com,Southstar,http://www.southstarco.com,Mcgehee,Glenn,Southstar
+019b0a12-f2f5-7506-be56-3d3156dd2701,invesca.com,76e6c580-a61f-4602-a946-7eb16a5d8967,m.hsiao@invesca.com,Invesca Development,http://www.invesca.com,Hsiao,Michael,Invesca Development
+019b0a12-f2f5-7506-be56-3d32b920f464,zenithpro.com,76e6c580-a61f-4602-a946-7eb16a5d8967,johanna@zenithpro.com,Zenith Properties NW,http://www.zenithpro.com,Miller,Johanna,Zenith Properties NW
+019b0a12-f2f5-7506-be56-3d33721f1315,pinnacle-advisory.com,76e6c580-a61f-4602-a946-7eb16a5d8967,lpho@pinnacle-advisory.com,Pinnacle Advisory,http://www.pinnacle-advisory.com,Pho,Larry,Pinnacle Advisory
+019b0a12-f2f5-7506-be56-3d3458b72915,newagainhouses.com,76e6c580-a61f-4602-a946-7eb16a5d8967,shaynes@newagainhouses.com,New Again Houses,http://www.newagainhouses.com,Haynes,Stephen,New Again Houses
+019b0a12-f2f5-7506-be56-3d35ab567bca,towerbrokerage.com,76e6c580-a61f-4602-a946-7eb16a5d8967,rperl@towerbrokerage.com,Tower Brokerage,http://www.towerbrokerage.com,Perl,Bob,Tower Brokerage
+019b0a12-f2f5-7506-be56-3d36562b292f,highlandfairview.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ibenzeevi@highlandfairview.com,Highland Fairview Properties,http://www.highlandfairview.com,Benzeevi,Iddo,Highland Fairview Properties
+019b0a12-f2f5-7506-be56-3d3733fda31f,tricorealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mike@tricorealty.com,Trico Realty,http://www.tricorealty.com,Harrison,Mike,Trico Realty
+019b0a12-f2f5-7506-be56-3d38ca593d13,townandshore.com,76e6c580-a61f-4602-a946-7eb16a5d8967,sjohnson@townandshore.com,Town & Shore,http://www.townandshore.com,Johnson,Sandy,Town & Shore
+019b0a12-f2f5-7506-be56-3d39316fdde7,masseyre.com,76e6c580-a61f-4602-a946-7eb16a5d8967,david@masseyre.com,Massey,http://www.masseyrealestate.com,Massey,David,Massey
+019b0a12-f2f5-7506-be56-3d3acb861c28,huffmanbuilders.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dhunt@huffmanbuilders.com,Huffman Builders,http://www.huffmanbuilders.com,Hunt,Dee,Huffman Builders
+019b0a12-f2f5-7506-be56-3d3b88b963ae,imitchell.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ed@imitchell.com,Mitchell,http://www.mitchellcompany.com,Mitchell,Ed,Mitchell
+019b0a12-f2f5-7506-be56-3d3c29ba4edb,brockdevelopmentcorp.com,76e6c580-a61f-4602-a946-7eb16a5d8967,andrewb@brockdevelopmentcorp.com,Brock Development,http://www.brockdevelopmentcorp.com,Brock,Andrew,Brock Development
+019b0a12-f2f5-7506-be56-3d3d23bb12cf,jacarson.com,76e6c580-a61f-4602-a946-7eb16a5d8967,john@jacarson.com,Carson,http://www.carsoncompanies.com,Carson,John,Carson
+019b0a12-f2f5-7506-be56-3d3e19e173eb,nrsire.com,76e6c580-a61f-4602-a946-7eb16a5d8967,tdefilipps@nrsire.com,Naples Realty,http://www.naplesrealtyservices.com,Defilipps,Todd,Naples Realty
+019b0a12-f2f5-7506-be56-3d3fbea210ce,dolphin-partners.com,76e6c580-a61f-4602-a946-7eb16a5d8967,kevin@dolphin-partners.com,Dolphin Partners,http://www.dolphin-partners.com,Pitts,Kevin,Dolphin Partners
+019b0a12-f2f5-7506-be56-3d4012e8e6cd,pmicompanies.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mary@pmicompanies.com,PMI Properties,http://www.pmiproperty.com,Flynn,Mary,PMI Properties
+019b0a12-f2f5-7506-be56-3d41302d9355,retailinsite.net,76e6c580-a61f-4602-a946-7eb16a5d8967,rpepper@retailinsite.net,Retail Insite,http://www.retailinsite.net,Pepper,Ronald,Retail Insite
+019b0a12-f2f5-7506-be56-3d421dd3a002,cityhomecollective.com,76e6c580-a61f-4602-a946-7eb16a5d8967,cody@cityhomecollective.com,City Home Collective,http://www.cityhomecollective.com,Derrick,Cody,City Home Collective
+019b0a12-f2f5-7506-be56-3d439c957b23,integricoach.com,76e6c580-a61f-4602-a946-7eb16a5d8967,growth@integricoach.com,Noble Properties,http://www.nobleproperties.com,Wollin,Jordan,Noble Properties
+019b0a12-f2f5-7506-be56-3d44fb2c1152,westlakeassociates.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ian@westlakeassociates.com,Westlake Associates,http://www.westlakeassociates.com,Brown,Ian,Westlake Associates
+019b0a12-f2f5-7506-be56-3d45069583d5,peakfinanceco.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jeff@peakfinanceco.com,Peak Finance,http://www.peakfinanceco.com,Simon,Jeff,Peak Finance
+019b0a12-f2f5-7506-be56-3d469ba3c955,gfinvestments.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dvalero@gfinvestments.com,Global Fund Investments,http://www.gfinvestments.com,Valero,Doron,Global Fund Investments
+019b0a12-f2f5-7506-be56-3d478220a707,pinemanagement.com,76e6c580-a61f-4602-a946-7eb16a5d8967,tom@pinemanagement.com,Pine Management,http://www.pinemanagement.com,Rohlman,Thomas,Pine Management
+019b0a12-f2f5-7506-be56-3d482c55aba5,crossroadsproperties.net,76e6c580-a61f-4602-a946-7eb16a5d8967,howard.green@crossroadsproperties.net,Crossroads,http://www.crossroadsproperties.net,Green,Howard,Crossroads
+019b0a13-03bc-700a-a250-53a7e81fe6c5,ross-realty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bross@ross-realty.com,Ross Realty Investments,http://www.ross-realty.com,Ross,Barry,Ross Realty Investments
+019b0a13-03bc-700a-a250-53a8cfa7127f,propertyrate.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dexter@propertyrate.com,Propertyrate,http://www.propertyrate.com,Go,Dexter,Propertyrate
+019b0a13-03bc-700a-a250-53a91d5bb2fb,arlinghausbuilders.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jarlinghaus@arlinghausbuilders.com,Arlinghaus,http://www.arlinghaus.com,Arlinghaus,Jay,Arlinghaus
+019b0a13-03bc-700a-a250-53aa3a94287f,bridgelanddentistry.com,76e6c580-a61f-4602-a946-7eb16a5d8967,drmason@bridgelanddentistry.com,Bridgeland,http://www.bridgeland.com,Mason,Ben,Bridgeland
+019b0a13-03bc-700a-a250-53ab8581a671,vitalentusa.com,76e6c580-a61f-4602-a946-7eb16a5d8967,rlvitalo@vitalentusa.com,Vital,http://www.vital.enterprises,Vitalo,Raphael,Vital
+019b0a13-03bc-700a-a250-53ace8eda594,eaglepropertyhomes.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mike@eaglepropertyhomes.com,Eagle Property Management,http://www.eaglepropertymanagementco.com,Frederico,Michael,Eagle Property Management
+019b0a13-03bc-700a-a250-53ad024ec358,soundviewrealtygroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,paulelliott@soundviewrealtygroup.com,Soundview,http://www.soundviewrealtygroup.com,Elliott,Paul,Soundview
+019b0a13-03bc-700a-a250-53ae8b969b60,bluedrg.com,76e6c580-a61f-4602-a946-7eb16a5d8967,maureen@bluedrg.com,Blue Door Real Estate,http://www.bluedrg.com,Sanchez,Maureen,Blue Door Real Estate
+019b0a13-03bc-700a-a250-53afd01a926b,redrockrg.com,76e6c580-a61f-4602-a946-7eb16a5d8967,wvann@redrockrg.com,Red Rock Realty,http://www.redrockrg.com,Vann,Will,Red Rock Realty
+019b0a13-03bc-700a-a250-53b0f3eefbab,mackloweproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,hmacklowe@mackloweproperties.com,Macklowe,http://www.mackloweproperties.com,Macklowe,Harry,Macklowe
+019b0a13-03bc-700a-a250-53b1029dfba3,northpointcapital.net,76e6c580-a61f-4602-a946-7eb16a5d8967,kvolgman@northpointcapital.net,Northpoint Capital,http://www.northpointcapital.net,Volgman,Keith,Northpoint Capital
+019b0a13-03bc-700a-a250-53b2705fa814,capstonecm.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dardan@capstonecm.com,Capstone,http://www.capstonecm.com,Lahu,Dardan,Capstone
+019b0a13-03bc-700a-a250-53b3d5266fcb,northbloomfield.com,76e6c580-a61f-4602-a946-7eb16a5d8967,almorris@northbloomfield.com,North Bloomfield,http://www.northbloomfield.com,Morris,Al,North Bloomfield
+019b0a13-03bc-700a-a250-53b43ae660f5,apartmentx.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dave@apartmentx.com,Apartment Rental Experts,http://www.apartmentrentalexperts.com,Scott,Dave,Apartment Rental Experts
+019b0a13-03bc-700a-a250-53b5401e52dd,jonesdevelopers.com,76e6c580-a61f-4602-a946-7eb16a5d8967,carey@jonesdevelopers.com,Jones Development,http://www.jones-development.com,Andre,Carey,Jones Development
+019b0a13-03bc-700a-a250-53b6b1da84b6,gilbertgrouprealestate.com,76e6c580-a61f-4602-a946-7eb16a5d8967,agilbert@gilbertgrouprealestate.com,Gilbert,http://www.gilbertgrouprealestate.com,Alkhas,Gilbert,Gilbert
+019b0a13-03bd-75f3-97e1-c4f89193956a,inspectahomes.com,76e6c580-a61f-4602-a946-7eb16a5d8967,sbatchelor@inspectahomes.com,Inspecta,http://www.inspectahomes.com,Batchelor,Shanna,Inspecta
+019b0a13-03bd-75f3-97e1-c4f99d3d09f6,nexuspropertymanagement.com,76e6c580-a61f-4602-a946-7eb16a5d8967,krystyna@nexuspropertymanagement.com,Nexus,http://www.nexri.com,Mcqueeney,Krystyna,Nexus
+019b0a13-03bd-75f3-97e1-c4fa8c1350b9,sdcaustin.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dvitanza@sdcaustin.com,Schlosser Development,http://www.sdcaustin.com,Vitanza,David,Schlosser Development
+019b0a13-03bd-75f3-97e1-c4fb39655a1f,duffyproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,stevenduffy@duffyproperties.com,Duffy Properties,http://www.duffyproperties.com,Duffy,Steven,Duffy Properties
+019b0a13-03bd-75f3-97e1-c4fc8a4aa26a,legacycustombuilt.com,76e6c580-a61f-4602-a946-7eb16a5d8967,paul-sushko@legacycustombuilt.com,Legacy Construction,http://www.legacycustombuilt.com,Sushko,Paul,Legacy Construction
+019b0a13-03bd-75f3-97e1-c4fd9283db4e,doudbts.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ben@doudbts.com,Doud BTS,http://www.doudbts.com,Doud,Ben,Doud BTS
+019b0a13-03bd-75f3-97e1-c4fe7fe2acb1,naidesco.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dhayes@naidesco.com,NAI Desco,http://www.naidesco.com,Hayes,Dan,NAI Desco
+019b0a13-03bd-75f3-97e1-c4ff90208eed,inlandcompanies.com,76e6c580-a61f-4602-a946-7eb16a5d8967,swelsh@inlandcompanies.com,Inland,http://www.inlandcompanies.com,Welsh,Scott,Inland
+019b0a13-03bd-75f3-97e1-c5017e8ab745,macadamforbes.com,76e6c580-a61f-4602-a946-7eb16a5d8967,todd@macadamforbes.com,Macadam Forbes,http://www.macadamforbes.com,Collins,Todd,Macadam Forbes
+019b0a13-03bd-75f3-97e1-c5021c4c99ab,holualoa.com,76e6c580-a61f-4602-a946-7eb16a5d8967,kasser.michael@holualoa.com,Holualoa,http://www.holualoa.com,Kasser,Michael,Holualoa
+019b0a13-03bd-75f3-97e1-c5030ab7b00b,claydevelopment.com,76e6c580-a61f-4602-a946-7eb16a5d8967,rclay@claydevelopment.com,Clay Development & Construction,http://www.claydevelopment.com,Clay,Robert,Clay Development & Construction
+019b0a13-03bd-75f3-97e1-c5042691e92e,thelozanogroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,robert@thelozanogroup.com,Lozano Real Estate,http://www.thelozanogroup.com,Lozano,Robert,Lozano Real Estate
+019b0a13-03bd-75f3-97e1-c50526105346,ashwillassociates.com,76e6c580-a61f-4602-a946-7eb16a5d8967,tommulrooney@ashwillassociates.com,Ashwill Associates,http://www.ashwillcre.com,Mulrooney,Tom,Ashwill Associates
+019b0a13-03bd-75f3-97e1-c506abfd816c,turnkeydetroit.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jim@turnkeydetroit.com,Turn Key,http://www.tkpsrealty.com,Taylor,Jim,Turn Key
+019b0a13-03bd-75f3-97e1-c5077485313e,jenkinsorg.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jenkins@jenkinsorg.com,Jenkins,http://www.jenkinsorg.com,Storage,The,Jenkins
+019b0a13-03bd-75f3-97e1-c508f020783f,vivogroup.net,76e6c580-a61f-4602-a946-7eb16a5d8967,evivo@vivogroup.net,Vivo Real Estate,http://www.vivogroup.net,Vivo,Evelyn,Vivo Real Estate
+019b0a13-03bd-75f3-97e1-c5099ee7589b,evergreenpropertymgmt.net,76e6c580-a61f-4602-a946-7eb16a5d8967,cyndi@evergreenpropertymgmt.net,Evergreen,http://www.ftcrent.com,Strandberg,Cyndi,Evergreen
+019b0a13-03bd-75f3-97e1-c50a8dd76681,changinglatitudesfl.com,76e6c580-a61f-4602-a946-7eb16a5d8967,carrie@changinglatitudesfl.com,Changing Latitudes,http://www.changinglatitudesfl.com,Courtney,Carrie,Changing Latitudes
+019b0a13-03bd-75f3-97e1-c50b3aae683f,vantageatl.com,76e6c580-a61f-4602-a946-7eb16a5d8967,chris@vantageatl.com,Vantage Realty,http://www.vantageatl.com,Carter,Chris,Vantage Realty
+019b0a13-03bd-75f3-97e1-c50c2521e74e,gessearch.com,76e6c580-a61f-4602-a946-7eb16a5d8967,kgillian@gessearch.com,Gillian Executive Search,http://www.gessearch.com,Gillian,Kipp,Gillian Executive Search
+019b0a13-03bd-75f3-97e1-c50d5787129f,wilsonwolfe.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bettywolfe@wilsonwolfe.com,Wilson Wolfe,http://www.wilsonwolfe.com,Wolfe,Betty,Wilson Wolfe
+019b0a13-03bd-75f3-97e1-c50ec900683e,icpllc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,chris@icpllc.com,Industrial Commercial Properties,http://www.icpllc.com,Semarjian,Chris,Industrial Commercial Properties
+019b0a13-03bd-75f3-97e1-c50f1b3d4ee7,sdc400.com,76e6c580-a61f-4602-a946-7eb16a5d8967,toms@sdc400.com,Scannapieco Development,http://www.scannapiecodevcorp.com,Scannapieco,Tom,Scannapieco Development
+019b0a13-03bd-75f3-97e1-c510e9caeeb9,rightangle.com.au,76e6c580-a61f-4602-a946-7eb16a5d8967,kevin@rightangle.com.au,Rightangle,http://www.rightangleproperty.com,Angle,Kevin,Rightangle
+019b0a13-03bd-75f3-97e1-c5118daf9e44,brinkleyrealtygroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,percy@brinkleyrealtygroup.com,Brinkley Realty,http://www.brinkleyrealtygroup.com,Brinkley,Percy,Brinkley Realty
+019b0a13-03bd-75f3-97e1-c5121acaa8a9,ah-realty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,erinlosekamp@ah-realty.com,American Heritage Realty,http://www.ahrteam.com,Losekamp,Erin,American Heritage Realty
+019b0a13-03bd-75f3-97e1-c513e4ca0fce,jmmteam.com,76e6c580-a61f-4602-a946-7eb16a5d8967,coachjmichael@jmmteam.com,J Michael Manley Team,http://www.greatergreenvilleareahomes.com,Manley,J,J Michael Manley Team
+019b0a13-03bd-75f3-97e1-c5143b2c2654,thebrawleygroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,deniseb@thebrawleygroup.com,Brawley,http://www.thebrawleygroup.com,Brawley,Denise,Brawley
+019b0a13-03bd-75f3-97e1-c515e8808871,hscre.com,76e6c580-a61f-4602-a946-7eb16a5d8967,howard@hscre.com,Howard Schwartz,http://www.hscre.com,Schwartz,Howard,Howard Schwartz
+019b0a13-03bd-75f3-97e1-c516dd74c0e0,myvacationhaven.com,76e6c580-a61f-4602-a946-7eb16a5d8967,m.burke@myvacationhaven.com,My Vacation Haven,http://www.myvacationhaven.com,Burke,Maria,My Vacation Haven
+019b0a13-03bd-75f3-97e1-c517e817d9bc,landcrazy.com,76e6c580-a61f-4602-a946-7eb16a5d8967,s.williamson@landcrazy.com,Landcrazy,http://www.landcrazy.com,Williamson,Scott,Landcrazy
+019b0a13-03bd-75f3-97e1-c518dbf8ec02,mpwproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,wmillsiv@mpwproperties.com,MPW,http://www.mpwproperties.com,Mills,William,MPW
+019b0a13-03bd-75f3-97e1-c51900ca521e,reoam.com,76e6c580-a61f-4602-a946-7eb16a5d8967,kathleen@reoam.com,REO America,http://www.reoam.com,Pasqua,Kathleen,REO America
+019b0a13-03bd-75f3-97e1-c51ae3cd5cfb,biaginiproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,tom@biaginiproperties.com,Biagini Properties,http://www.biaginiproperties.com,Biagini,Thomas,Biagini Properties
+019b0a13-03bd-75f3-97e1-c51bc2f2d910,goldenmushroomco.com,76e6c580-a61f-4602-a946-7eb16a5d8967,max@goldenmushroomco.com,Golden Mushroom,http://www.thegoldenmushroom.com,Goransson,Max,Golden Mushroom
+019b0a13-03bd-75f3-97e1-c51c78d48874,paolinoproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,d.paolino@paolinoproperties.com,Paolino,http://www.paolinoproperties.com,Paolino,Donna,Paolino
+019b0a13-03bd-75f3-97e1-c51d2e216d39,insightpropertygroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jwoody@insightpropertygroup.com,Insight Property,http://www.insightpropertygroup.com,Woody,Jimmy,Insight Property
+019b0a13-03bd-75f3-97e1-c51e6e3e5dc3,wilsonpm.com,76e6c580-a61f-4602-a946-7eb16a5d8967,kandyw@wilsonpm.com,Q,,Wilson,Kandy,Q
+019b0a13-03bd-75f3-97e1-c51f9310d781,erarepro.com,76e6c580-a61f-4602-a946-7eb16a5d8967,tom@erarepro.com,ERA Real Estate Professionals,http://www.erarepro.com,Groves,Tom,ERA Real Estate Professionals
+019b0a13-03bd-75f3-97e1-c5208419a53b,herrincommercial.com,76e6c580-a61f-4602-a946-7eb16a5d8967,sherrin@herrincommercial.com,Herrin,http://www.herrincommercial.com,Herrin,Sharon,Herrin
+019b0a13-03bd-75f3-97e1-c5219d314863,theriversiderealtygroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,sue@theriversiderealtygroup.com,Riverside Realty,http://www.theriversiderealtygroup.com,Lieberman,Sue,Riverside Realty
+019b0a13-03bd-75f3-97e1-c522e5cbfb89,mpmjh.com,76e6c580-a61f-4602-a946-7eb16a5d8967,wendy@mpmjh.com,Mountain Property Management,http://www.mtnpm.com,Meyring,Wendy,Mountain Property Management
+019b0a13-03bd-75f3-97e1-c523a0855bc2,northhillsescrow.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jouliet@northhillsescrow.com,North Hills Escrow,http://www.northhillsescrow.com,Bonyadi,Jouliet,North Hills Escrow
+019b0a13-03bd-75f3-97e1-c52421f70d9f,carlyleproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,marci@carlyleproperties.com,Carlyle,http://www.carlyleproperties.com,Carlyle,Marci,Carlyle
+019b0a13-03bd-75f3-97e1-c525432b1b7e,rkiltd.com,76e6c580-a61f-4602-a946-7eb16a5d8967,rknorr@rkiltd.com,Richard Knorr International,http://www.rkiltd.com,Knorr,Richard,Richard Knorr International
+019b0a13-03bd-75f3-97e1-c526971e653e,kchomerental.net,76e6c580-a61f-4602-a946-7eb16a5d8967,kaye@kchomerental.net,Rental Home,http://www.rentalhomekc.com,Wissing,Kaye,Rental Home
+019b0a13-03bd-75f3-97e1-c527fde7b100,gerdingcontracting.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jesse@gerdingcontracting.com,Gerding Edlen,http://www.gerdingedlen.com,Gerding,Jesse,Gerding Edlen
+019b0a13-03bd-75f3-97e1-c528dcc29739,hkrealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,michael_koentopp@hkrealty.com,HK,http://www.hkrealty.com,Koentopp,Michael,HK
+019b0a13-03bd-75f3-97e1-c52941c35344,platinumfirstrealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,rberta@platinumfirstrealty.com,Platinum First,http://www.platinumfirstrealty.com,Berta,Robert,Platinum First
+019b0a13-03bd-75f3-97e1-c52ac37b7ce5,bullseyeaz.com,76e6c580-a61f-4602-a946-7eb16a5d8967,nick@bullseyeaz.com,Bullseye,http://www.bullseyeaz.com,Stratton,Nick,Bullseye
+019b0a13-03bd-75f3-97e1-c52be99e0dcd,bajaproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,dianna@bajaproperties.com,Baja,http://www.bajaproperties.com,Murphy,Dianna,Baja
+019b0a13-03bd-75f3-97e1-c52c6b9bbeb0,graysonhomes.com,76e6c580-a61f-4602-a946-7eb16a5d8967,donna@graysonhomes.com,Grayson,http://www.graysonhomes.com,Poupard,Donna,Grayson
+019b0a13-03bd-75f3-97e1-c52dc94b1ed6,koslbuilding.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bobby@koslbuilding.com,KOSL,http://www.koslbuilding.com,Ben-simon,Bobby,KOSL
+019b0a13-03bd-75f3-97e1-c52e7b8d10b5,fleisherre.com,76e6c580-a61f-4602-a946-7eb16a5d8967,skip@fleisherre.com,Fleisher,http://www.thefleishercompany.com,Fleming,Skip,Fleisher
+019b0a13-03bd-75f3-97e1-c52f4c24fe0b,martinpropertymanagement.com,76e6c580-a61f-4602-a946-7eb16a5d8967,chris.martin@martinpropertymanagement.com,Martin,http://www.mpmames.com,Martin,Chris,Martin
+019b0a13-03bd-75f3-97e1-c530b9c861b5,innovationsgrp.com,76e6c580-a61f-4602-a946-7eb16a5d8967,epowers@innovationsgrp.com,Innovations,http://www.innovationsgrp.com,Powers,Eric,Innovations
+019b0a13-03bd-75f3-97e1-c53138e7dbac,valleyviewnursery.com,76e6c580-a61f-4602-a946-7eb16a5d8967,john@valleyviewnursery.com,Valley View Gardens,http://www.valleyviewgardens.com,Stranberg,John,Valley View Gardens
+019b0a13-03bd-75f3-97e1-c5323ccbef40,demandrealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,tom@demandrealty.com,Demand,http://www.demandrealty.com,Havrilla,Tom,Demand
+019b0a13-03bd-75f3-97e1-c533d3fe29cc,rljonesproperties.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ramona@rljonesproperties.com,RL Jones Properties,http://www.rljonesproperties.com,Jones,Ramona,RL Jones Properties
+019b0a13-03bd-75f3-97e1-c534873c851b,clarkinv.com,76e6c580-a61f-4602-a946-7eb16a5d8967,sclark@clarkinv.com,Clark,http://www.clarkinv.com,Clark,Scott,Clark
+019b0a13-03bd-75f3-97e1-c5352dc241fd,ramoscompanies.com,76e6c580-a61f-4602-a946-7eb16a5d8967,btrout@ramoscompanies.com,Ramos,http://www.ramoscompanies.com,Trout,Barry,Ramos
+019b0a13-03bd-75f3-97e1-c536954a8a06,censeovaluation.com,76e6c580-a61f-4602-a946-7eb16a5d8967,andrew@censeovaluation.com,Censeo Valuation,http://www.censeovc.com,Ament,Andrew,Censeo Valuation
+019b0a13-03bd-75f3-97e1-c537bde461a1,crystalip.com,76e6c580-a61f-4602-a946-7eb16a5d8967,joseph.kennedy@crystalip.com,Crystal Investment Property,http://www.crystalip.com,Kennedy,Joseph,Crystal Investment Property
+019b0a13-03bd-75f3-97e1-c538fd25d94c,windmillinvestments.com,76e6c580-a61f-4602-a946-7eb16a5d8967,daniel@windmillinvestments.com,Windmill Investments,http://www.windmillinvestments.com,Carter,Daniel,Windmill Investments
+019b0a13-03bd-75f3-97e1-c53966b295ae,mres-inc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,fred@mres-inc.com,Merit Real Estate,http://www.meritrealestate.com,Chesky,Fred,Merit Real Estate
+019b0a13-03bd-75f3-97e1-c53a6b68b78d,urbanfrontier.com,76e6c580-a61f-4602-a946-7eb16a5d8967,gbaum@urbanfrontier.com,Urban Frontier,http://www.urbanfrontier.com,Baum,Garrett,Urban Frontier
+019b0a13-03bd-75f3-97e1-c53b414b7103,leaseflorida.com,76e6c580-a61f-4602-a946-7eb16a5d8967,alan@leaseflorida.com,Leaseflorida,http://www.leaseflorida.com,Waserstein,Alan,Leaseflorida
+019b0a13-03bd-75f3-97e1-c53c7b71b42d,resultsrealestateinc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mdowling@resultsrealestateinc.com,Results Real Estate,http://www.resultsrealestateinc.com,Dowling,Marilyn,Results Real Estate
+019b0a13-03bd-75f3-97e1-c53d5680d11c,mainediner.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jim@mainediner.com,Maine Diner,http://www.mainediner.com,Macneill,Jim,Maine Diner
+019b0a13-03bd-75f3-97e1-c53e57736e6d,daneglobal.com,76e6c580-a61f-4602-a946-7eb16a5d8967,heidi.burkhart@daneglobal.com,Dane Global,http://www.daneglobal.com,Burkhart,Heidi,Dane Global
+019b0a13-03bd-75f3-97e1-c53f3b4faa80,luxurylivingrealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,karla@luxurylivingrealty.com,Luxury Living,http://www.luxurylivingrealty.com,Abaunza,Karla,Luxury Living
+019b0a13-03bd-75f3-97e1-c540b2166794,radekopf.com,76e6c580-a61f-4602-a946-7eb16a5d8967,steve@radekopf.com,Radekopf,http://www.radekopf.com,Radekopf,Steve,Radekopf
+019b0a13-03bd-75f3-97e1-c541752c3503,terraresidential.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bmengden@terraresidential.com,Terra Residential,http://www.terraresidential.com,Mengden,Bridget,Terra Residential
+019b0a13-03bd-75f3-97e1-c542f4035a86,tradewindhomes.com,76e6c580-a61f-4602-a946-7eb16a5d8967,james@tradewindhomes.com,First Realty,http://www.first-sold.com,Bridges,James,First Realty
+019b0a13-03bd-75f3-97e1-c543352a502e,atlanticremarketing.com,76e6c580-a61f-4602-a946-7eb16a5d8967,wjsumms@atlanticremarketing.com,Atlantic Asset Management,http://www.atlanticremarketing.com,Summs,William,Atlantic Asset Management
+019b0a13-03bd-75f3-97e1-c54453a98c4b,hoganhomestexas.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mhogan@hoganhomestexas.com,Hogan Homes,http://www.hoganhomestexas.com,Hogan,Mike,Hogan Homes
+019b0a13-03bd-75f3-97e1-c54547f82252,haggardgroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,rutledge@haggardgroup.com,Haggard Property,http://www.haggardpropertygroup.com,Haggard,Rutledge,Haggard Property
+019b0a13-03bd-75f3-97e1-c546f34f142c,jonescorporations.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ciii@jonescorporations.com,Jones,http://www.jonescorporations.com,Jones,Clarke,Jones
+019b0a13-03bd-75f3-97e1-c547bb769e12,flad-development.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jflad@flad-development.com,Flad Development & Investment,http://www.flad-development.com,Flad,John,Flad Development & Investment
+019b0a13-03bd-75f3-97e1-c5488c42066f,texhomeland.com,76e6c580-a61f-4602-a946-7eb16a5d8967,donna.rodriguez@texhomeland.com,Texas Homeland Title,http://www.texhomeland.com,Rodriguez,Donna,Texas Homeland Title
+019b0a13-03bd-75f3-97e1-c5491c5bac17,cherifmedawar.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ashlee@cherifmedawar.com,Cherif Medawar Real Estate,http://www.cherifmedawar.com,Medawar,Cherif,Cherif Medawar Real Estate
+019b0a13-03bd-75f3-97e1-c54a1098b799,crystalproperty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,justin@crystalproperty.com,Crystal Property,http://www.crystalproperty.com,Windholz,Justin,Crystal Property
+019b0a13-03bd-75f3-97e1-c54bf9e01d98,blueridgerentals.com,76e6c580-a61f-4602-a946-7eb16a5d8967,linda@blueridgerentals.com,Blue Ridge Mountain,http://www.blueridgerentals.com,Bonsall,Linda,Blue Ridge Mountain
+019b0a13-0e73-7bb1-b7c0-c2c2f1530c12,debbiethomas.com,76e6c580-a61f-4602-a946-7eb16a5d8967,christian@debbiethomas.com,Debbie Thomas,http://www.debbiethomas.com,Geffrard,Christian,Debbie Thomas
+019b0a13-0e73-7bb1-b7c0-c2c3e217b6a0,mcloud.net,76e6c580-a61f-4602-a946-7eb16a5d8967,jill.mcloud@mcloud.net,Mcloud Commercial Real Estate,http://www.mcloud.net,Mcloud,Jill,Mcloud Commercial Real Estate
+019b0a13-0e73-7bb1-b7c0-c2c43acaab65,fcgllc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,clientcare@fcgllc.com,First Cornerstone,http://www.dealsanddollarsclub.com,Edwards,Lance,First Cornerstone
+019b0a13-0e73-7bb1-b7c0-c2c5de936d56,thewrightcommunity.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bonita@thewrightcommunity.com,Wright Community,http://www.thewrightcommunity.com,Vandall,Bonita,Wright Community
+019b0a13-0e73-7bb1-b7c0-c2c670d56dae,cspropertymanagement.com,76e6c580-a61f-4602-a946-7eb16a5d8967,connie@cspropertymanagement.com,CS Property,http://www.cspropertymanagement.com,Ferguson,Connie,CS Property
+019b0a13-0e73-7bb1-b7c0-c2c7b379e9c8,investorsinaction.com,76e6c580-a61f-4602-a946-7eb16a5d8967,alia@investorsinaction.com,Investors in Action,http://www.investorsinaction.com,Carter,Alia,Investors in Action
+019b0a13-0e73-7bb1-b7c0-c2c8b2bdb532,casehuff.com,76e6c580-a61f-4602-a946-7eb16a5d8967,garyc@casehuff.com,Case Huff,http://www.casehuff.com,Case,Gary,Case Huff
+019b0a13-0e73-7bb1-b7c0-c2c922584a70,beachsidevacations.com,76e6c580-a61f-4602-a946-7eb16a5d8967,swilliams@beachsidevacations.com,Beachside Vacations,http://www.beachsidevacations.com,Williams,Stephannie,Beachside Vacations
+019b0a13-0e73-7bb1-b7c0-c2ca6ea88b35,baldwinbros.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mbaldwin@baldwinbros.com,Baldwin Brothers,http://www.baldwinbros.com,Baldwin,Michael,Baldwin Brothers
+019b0a13-0e73-7bb1-b7c0-c2cb2329bc8e,loveamericanhomes.com,76e6c580-a61f-4602-a946-7eb16a5d8967,kimberlee@loveamericanhomes.com,Love Austin Homes,http://www.loveaustinhomes.com,Grove,Phill,Love Austin Homes
+019b0a13-0e73-7bb1-b7c0-c2cc0c550649,berglasgarfield.com,76e6c580-a61f-4602-a946-7eb16a5d8967,robert@berglasgarfield.com,Berglas Garfield,http://www.berglasandgarfield.com,Garfield,Robert,Berglas Garfield
+019b0a13-0e73-7bb1-b7c0-c2cd127dd168,realestateschoolchicago.com,76e6c580-a61f-4602-a946-7eb16a5d8967,kim@realestateschoolchicago.com,Chicago Real Estate School,http://www.realestateschoolchicago.com,Bates,Kim,Chicago Real Estate School
+019b0a13-0e73-7bb1-b7c0-c2cee1e4268c,wkrpindy.com,76e6c580-a61f-4602-a946-7eb16a5d8967,writecurt@wkrpindy.com,WKRP Indy Real Estate,http://www.wkrpindy.com,Whitesell,Curt,WKRP Indy Real Estate
+019b0a13-0e73-7bb1-b7c0-c2cf62557837,bendetti.com,76e6c580-a61f-4602-a946-7eb16a5d8967,rbendetti@bendetti.com,Bendetti,http://www.bendetti.com,Bendetti,Robert,Bendetti
+019b0a13-0e73-7bb1-b7c0-c2d0b237a322,bakeryoung.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jmalanos@bakeryoung.com,Baker Young,http://www.bakeryoung.com,Malanos,James,Baker Young
+019b0a13-0e73-7bb1-b7c0-c2d13d62c683,thepeterscompany.com,76e6c580-a61f-4602-a946-7eb16a5d8967,andy@thepeterscompany.com,Peters,http://www.thepeterscompany.com,Peters,Andy,Peters
+019b0a13-0e73-7bb1-b7c0-c2d205852a11,deugen.com,76e6c580-a61f-4602-a946-7eb16a5d8967,frank@deugen.com,Deugen Development,http://www.deugen.com,Gormeley,Frank,Deugen Development
+019b0a13-0e73-7bb1-b7c0-c2d375e6e5af,fdrich.com,76e6c580-a61f-4602-a946-7eb16a5d8967,trich@fdrich.com,F.D. Rich,http://www.fdrich.com,Rich,Tom,F.D. Rich
+019b0a13-0e73-7bb1-b7c0-c2d4fec61d4d,bettinaequities.com,76e6c580-a61f-4602-a946-7eb16a5d8967,asciortino@bettinaequities.com,Bettina Equities,http://www.bettinaequities.com,Sciortino,Alex,Bettina Equities
+019b0a13-0e73-7bb1-b7c0-c2d5928ad6fc,thealvaradogroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,sara@thealvaradogroup.com,Alvarado Real Estate,http://www.thealvaradogroup.com,Alvarado,Sara,Alvarado Real Estate
+019b0a13-0e73-7bb1-b7c0-c2d65d6a0b4f,maxbroockhomes.com,76e6c580-a61f-4602-a946-7eb16a5d8967,kathy@maxbroockhomes.com,Kathy Broock,http://www.kathybroock.com,Broock,Kathy,Kathy Broock
+019b0a13-0e73-7bb1-b7c0-c2d73d2fd431,selfstorageinvesting.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jim@selfstorageinvesting.com,Self Storage Investing,http://www.selfstorageinvesting.com,White,Jim,Self Storage Investing
+019b0a13-0e73-7bb1-b7c0-c2d8c20b4544,mytownhome.com,76e6c580-a61f-4602-a946-7eb16a5d8967,tj@mytownhome.com,Maison,http://www.maisonprop.com,Larsen,Tj,Maison
+019b0a13-0e73-7bb1-b7c0-c2d9f3c85871,stclairholdings.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ccavill@stclairholdings.com,St. Clair,http://www.stclairholdings.com,Cavill,Colin,St. Clair
+019b0a13-0e73-7bb1-b7c0-c2dabafdc865,trmckenzie.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jessie@trmckenzie.com,TR McKenzie,http://www.trmckenzie.com,Crooks,Jessie,TR McKenzie
+019b0a13-0e73-7bb1-b7c0-c2dbb200b2fc,mavd.com,76e6c580-a61f-4602-a946-7eb16a5d8967,tharris@mavd.com,Mavd,http://www.mavd.com,Harris,Terrill,Mavd
+019b0a13-0e73-7bb1-b7c0-c2dc9b009339,taosnewmexico.com,76e6c580-a61f-4602-a946-7eb16a5d8967,melody@taosnewmexico.com,Dreamcatcher Real Estate,http://www.taosnewmexico.com,Reese,Melody,Dreamcatcher Real Estate
+019b0a13-0e73-7bb1-b7c0-c2dd915524e4,waddellrealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,valerie@waddellrealty.com,Waddell,http://www.waddellrealtyco.com,Waddell,Valerie,Waddell
+019b0a13-0e73-7bb1-b7c0-c2deb32dabbd,gstiles.com,76e6c580-a61f-4602-a946-7eb16a5d8967,greg@gstiles.com,G Stiles,http://www.gstiles.com,Johnson,Greg,G Stiles
+019b0a13-0e73-7bb1-b7c0-c2df4e4ae297,faithproperty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,linda@faithproperty.com,Faith Property Management,http://www.faithproperty.com,George,Linda,Faith Property Management
+019b0a13-0e73-7bb1-b7c0-c2e0f742d81f,springstead-associates.com,76e6c580-a61f-4602-a946-7eb16a5d8967,cspringstead@springstead-associates.com,Springstead,http://www.springstead-associates.com,Springstead,Carol,Springstead
+019b0a13-0e73-7bb1-b7c0-c2e17364ac96,accessrealtyva.com,76e6c580-a61f-4602-a946-7eb16a5d8967,carolyn@accessrealtyva.com,Access Realty,http://www.accessrealtysc.com,Davis,Carolyn,Access Realty
+019b0a13-0e73-7bb1-b7c0-c2e2b4c2a18e,globalcommercialre.com,76e6c580-a61f-4602-a946-7eb16a5d8967,neil@globalcommercialre.com,Global Real Estate Advisors,http://www.globalcommercialre.com,Sawicki,Neil,Global Real Estate Advisors
+019b0a13-0e73-7bb1-b7c0-c2e33547ed12,rosecommercial.com,76e6c580-a61f-4602-a946-7eb16a5d8967,arose@rosecommercial.com,Rose Commercial Real Estate,http://www.rosecommercial.com,Rose,Adam,Rose Commercial Real Estate
+019b0a13-0e73-7bb1-b7c0-c2e4b9e1e151,tarltondesigns.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ann@tarltondesigns.com,Tarlton,http://www.tarlton.com,Petrocelli,Ann,Tarlton
+019b0a13-0e73-7bb1-b7c0-c2e5101bb9af,invest-success.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jedenfield@invest-success.com,Invest Success,http://www.invest-success.com,Edenfield,James,Invest Success
+019b0a13-0e73-7bb1-b7c0-c2e61386b970,ketchamgroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,pketcham@ketchamgroup.com,Ketcham Realty,http://www.ketchamrealty.com,Ketcham,Patti,Ketcham Realty
+019b0a13-0e73-7bb1-b7c0-c2e734851f03,wsrealtyinc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,katherine@wsrealtyinc.com,Optimum Property Management,http://www.wsrealtyinc.com,Hall,Katherine,Optimum Property Management
+019b0a13-0e73-7bb1-b7c0-c2e845b9abd8,rpmredding.com,76e6c580-a61f-4602-a946-7eb16a5d8967,melinda@rpmredding.com,Real Property Management,http://www.realpropertyinc.com,Brown,Melinda,Real Property Management
+019b0a13-0e73-7bb1-b7c0-c2e9e7372f59,kyrousrealtygroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,harriet@kyrousrealtygroup.com,Kyrous Realty,http://www.kyrousrealtygroup.com,Kyrous,Harriet,Kyrous Realty
+019b0a13-0e73-7bb1-b7c0-c2ea52b806f4,medcorepartners.com,76e6c580-a61f-4602-a946-7eb16a5d8967,kathi@medcorepartners.com,Medcore Partners,http://www.medcorepartners.com,White,Kathi,Medcore Partners
+019b0a13-0e73-7bb1-b7c0-c2ebebdbecb0,friendwell.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jason.cheng@friendwell.com,Friendwell,http://www.friendwell.com,Cheng,Jason,Friendwell
+019b0a13-0e73-7bb1-b7c0-c2ec6398f542,rpmpittsburgh.com,76e6c580-a61f-4602-a946-7eb16a5d8967,nate@rpmpittsburgh.com,Real Property Management Pittsburgh,http://www.rpmpittsburgh.com,Bringhurst,Nate,Real Property Management Pittsburgh
+019b0a13-0e73-7bb1-b7c0-c2ed1e0d5a4d,rmcdev.com,76e6c580-a61f-4602-a946-7eb16a5d8967,rsblendorio@rmcdev.com,Robert Martin,http://www.robertmartincompany.com,Sblendorio,Rocco,Robert Martin
+019b0a13-0e73-7bb1-b7c0-c2ee64897609,adolphsonre.com,76e6c580-a61f-4602-a946-7eb16a5d8967,greg@adolphsonre.com,Adolphson Real Estate,http://www.adolphsonrealestate.com,Tesdahl,Greg,Adolphson Real Estate
+019b0a13-0e73-7bb1-b7c0-c2ef687b06a2,jones-development.com,76e6c580-a61f-4602-a946-7eb16a5d8967,cjones@jones-development.com,Jones Development,http://www.jones-development.com,Jones,Chuck,Jones Development
+019b0a13-0e73-7bb1-b7c0-c2f0749c7e6f,homenetltd.com,76e6c580-a61f-4602-a946-7eb16a5d8967,ayal@homenetltd.com,Homenet,http://www.floridagulfcoastgoodlife.com,Noah,Ayal,Homenet
+019b0a13-0e73-7bb1-b7c0-c2f131a62395,hillcountryhomeowners.com,76e6c580-a61f-4602-a946-7eb16a5d8967,melissa@hillcountryhomeowners.com,Hill Country Homeowners Association,http://www.hillcountryhomeowners.com,Gentry,Melissa,Hill Country Homeowners Association
+019b0a13-0e73-7bb1-b7c0-c2f281e442e8,svn.com,76e6c580-a61f-4602-a946-7eb16a5d8967,tom.rankin@svn.com,Rankin Development,http://www.rankindevelopment.com,Rankin,Tom,Rankin Development
+019b0a13-0e73-7bb1-b7c0-c2f31742246b,brookpartners.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jsughrue@brookpartners.com,Brook Partners,http://www.brookpartners.com,Sughrue,John,Brook Partners
+019b0a13-0e73-7bb1-b7c0-c2f4e213a8bf,housesoldeasy.com,76e6c580-a61f-4602-a946-7eb16a5d8967,david@housesoldeasy.com,House Sold Easy,http://www.housesoldeasy.com,Dodge,David,House Sold Easy
+019b0a13-0e73-7bb1-b7c0-c2f52d76c308,themaisongroup.com,76e6c580-a61f-4602-a946-7eb16a5d8967,matt.metro@themaisongroup.com,Maison,http://www.themaisongroup.com,Metro,Matt,Maison
+019b0a13-0e73-7bb1-b7c0-c2f6990a4d34,reriwv.com,76e6c580-a61f-4602-a946-7eb16a5d8967,patmcgivern@reriwv.com,Real Estate Resources,http://www.reriwv.com,Mcgivern,Pat,Real Estate Resources
+019b0a13-0e73-7bb1-b7c0-c2f7a573f47b,core3pm.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mhundman@core3pm.com,Core 3,http://www.core3pm.com,Hundman,Mike,Core 3
+019b0a13-0e73-7bb1-b7c0-c2f847e13a0d,nextsteprm.com,76e6c580-a61f-4602-a946-7eb16a5d8967,daniel@nextsteprm.com,Next Step Realty,http://www.boisepropertymanagement.com,Manager,Daniel,Next Step Realty
+019b0a13-0e73-7bb1-b7c0-c2f95ffe4c6c,invest-success.com,76e6c580-a61f-4602-a946-7eb16a5d8967,temery@invest-success.com,Invest Success,http://www.invest-success.com,Emery,Tim,Invest Success
+019b0a13-0e73-7bb1-b7c0-c2fa95ed21fc,jpmc2000.com,76e6c580-a61f-4602-a946-7eb16a5d8967,beab@jpmc2000.com,Jenkins Properties,http://www.jpmc2000.com,Blessley,Bea,Jenkins Properties
+019b0a13-0e73-7bb1-b7c0-c2fb7f2336ad,7hillspropertymanagement.com,76e6c580-a61f-4602-a946-7eb16a5d8967,emurphy@7hillspropertymanagement.com,7 Hills Property Management,http://www.7hillspropertymanagement.com,Murphy,Edward,7 Hills Property Management
+019b0a13-0e73-7bb1-b7c0-c2fcf54c1bd0,centre-line.com,76e6c580-a61f-4602-a946-7eb16a5d8967,lp@centre-line.com,Centre-line Real Estate,http://www.centre-line.com,Pankey,Lindsey,Centre-line Real Estate
+019b0a13-0e73-7bb1-b7c0-c2fdd685e89e,plusmanagement.net,76e6c580-a61f-4602-a946-7eb16a5d8967,lhunter@plusmanagement.net,Plus Property,http://www.investoregon.com,Hunter,Lawnae,Plus Property
+019b0a13-0e73-7bb1-b7c0-c2fe105a247f,conformitycorp.com,76e6c580-a61f-4602-a946-7eb16a5d8967,amitchell@conformitycorp.com,Conformity,http://www.conformitycorp.com,Mitchell,Alan,Conformity
+019b0a13-0e73-7bb1-b7c0-c2ff4b9132e5,costelloco.com,76e6c580-a61f-4602-a946-7eb16a5d8967,smdunn@costelloco.com,Costello Compliance,http://www.costellocompliance.com,Dunn,Scott,Costello Compliance
+019b0a13-0e73-7bb1-b7c0-c3003cabca25,gregellingson.com,76e6c580-a61f-4602-a946-7eb16a5d8967,mary@gregellingson.com,Ellingson,http://www.gregellingson.com,Mccarthy,Mary,Ellingson
+019b0a13-0e73-7bb1-b7c0-c301841c44ee,benchmarknyc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,michael@benchmarknyc.com,Benchmark Properties,http://www.benchmarknyc.com,Beyda,Michael,Benchmark Properties
+019b0a13-0e73-7bb1-b7c0-c3021c482050,gothammgt.com,76e6c580-a61f-4602-a946-7eb16a5d8967,michele@gothammgt.com,Gotham Construction,http://www.gothamconstructioninc.com,Bracco,Michele,Gotham Construction
+019b0a13-0e73-7bb1-b7c0-c30312b977d9,qualityliving.com,76e6c580-a61f-4602-a946-7eb16a5d8967,relly@qualityliving.com,Quality Living,http://www.qualityliving.com,Arviv,Relly,Quality Living
+019b0a13-0e73-7bb1-b7c0-c3047f47fd01,you1st.com,76e6c580-a61f-4602-a946-7eb16a5d8967,brandon@you1st.com,Colorado Home Finder,http://www.coloradohomefinder.com,Christian,Brandon,Colorado Home Finder
+019b0a13-0e73-7bb1-b7c0-c305713e1507,robertehill.com,76e6c580-a61f-4602-a946-7eb16a5d8967,khackett@robertehill.com,Robert E Hill,http://www.robertehill.com,Hackett,Kristen,Robert E Hill
+019b0a13-0e73-7bb1-b7c0-c30632c95047,johnhallco.com,76e6c580-a61f-4602-a946-7eb16a5d8967,john@johnhallco.com,John Hall,http://www.johnhallco.com,Hall,John,John Hall
+019b0a13-0e73-7bb1-b7c0-c307b3731b6a,ezlandlordforms.com,76e6c580-a61f-4602-a946-7eb16a5d8967,kevin@ezlandlordforms.com,Ezlandlordforms,http://www.ezlandlordforms.com,Kiene,Kevin,Ezlandlordforms
+019b0a13-0e73-7bb1-b7c0-c3081c32f25a,greenscenehomeinspections.com,76e6c580-a61f-4602-a946-7eb16a5d8967,cbailey@greenscenehomeinspections.com,Green Scene,http://www.greenscenehomeinspections.com,Bailey,Clayton,Green Scene
+019b0a13-0e73-7bb1-b7c0-c309d82e59e1,msu.edu,76e6c580-a61f-4602-a946-7eb16a5d8967,amy@msu.edu,Liberty Title,http://www.libertytitleusa.com,Jones,Amy,Liberty Title
+019b0a13-0e73-7bb1-b7c0-c30a8edf0f09,urbanpartnersllc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,matt@urbanpartnersllc.com,Urban Partners,http://www.urbanpartnersllc.com,Burton,Matt,Urban Partners
+019b0a13-0e73-7bb1-b7c0-c30b8418bbaa,tluxp.com,76e6c580-a61f-4602-a946-7eb16a5d8967,kristi@tluxp.com,Tahoe Luxury Properties,http://www.tluxp.com,Bell,Kristi,Tahoe Luxury Properties
+019b0a13-0e73-7bb1-b7c0-c30c3a446ed6,lohorealty.com,76e6c580-a61f-4602-a946-7eb16a5d8967,jacob@lohorealty.com,Loho,http://www.lohorealty.com,Goldman,Jacob,Loho
+019b0a13-0e73-7bb1-b7c0-c30d4b9b8d07,thewrightcommunity.com,76e6c580-a61f-4602-a946-7eb16a5d8967,danielle@thewrightcommunity.com,Wright Community,http://www.thewrightcommunity.com,Wright,Danielle,Wright Community
+019b0a13-0e73-7bb1-b7c0-c30e8d00dac7,karpinc.com,76e6c580-a61f-4602-a946-7eb16a5d8967,bgold@karpinc.com,Karp Associates,http://www.karpassociatesinc.com,Gold,Burt,Karp Associates
